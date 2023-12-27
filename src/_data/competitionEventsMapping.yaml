@@ -1,0 +1,25 @@
+Urban:
+  "Jumps: Platform High & Long":
+    - "Jumps: Platform High & Long"
+    - "Jumps: Finals and Tie-breakers for Platform High & Long"
+  "Jumps: High & Long":
+    - "Jumps: High & Long"
+    - "Jumps: Finals and Tie-breakers for High Jump & Long Jump"
+  "Speed Trials":
+    - "Speed Trials: Preliminaries"
+    - "Speed Trials: Build Finals"
+    - "Speed Trials: Finals"
+  "Trials":
+    - "Trials: Preliminaries"
+    - "Trials: Finals"
+Track:
+  "Track: Coasting":
+    - "Track: Coasting"
+  "Track: Stillstand":
+    - "Track: Stillstand"
+Muni:
+  "Muni: Uphill, Beg Downhill & Beg Cross Country":
+    - "Muni Practice: Uphill, Beg Downhill & Beg Cross Country"
+    - "Muni: Uphill, Beg Downhill & Beg Cross Country"
+  "Muni: Cyclocross":
+    - "Muni: Cyclocross"
