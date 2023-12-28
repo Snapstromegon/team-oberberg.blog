@@ -10,6 +10,7 @@ const commonjs = require("@rollup/plugin-commonjs");
 const resolve = require("@rollup/plugin-node-resolve");
 const loadJson = require("@rollup/plugin-json");
 const { browserslistToTargets } = require("lightningcss");
+const { EleventyRenderPlugin } = require("@11ty/eleventy");
 
 function generateImages(src) {
   return Image(src, {
@@ -28,6 +29,9 @@ async function imageShortcode(
   alt,
   sizes = "(min-width: 50rem) 50rem, 100vw"
 ) {
+  if (src.startsWith("/")) {
+    src = `.${src}`;
+  }
   const metadata = await generateImages(src);
 
   const imageAttributes = {
@@ -43,6 +47,7 @@ async function imageShortcode(
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
+  eleventyConfig.addPlugin(EleventyRenderPlugin);
   eleventyConfig.addPlugin(rollupPlugin, {
     rollupOptions: {
       output: {
@@ -103,9 +108,11 @@ module.exports = function (eleventyConfig) {
       .use(markdownitEmoji.full)
   );
   eleventyConfig.addWatchTarget("./assets/");
+  eleventyConfig.addPassthroughCopy("src/admin/config.yml");
   // Return your Object options:
   return {
     dir: { input: "src" },
     markdownTemplateEngine: "njk",
+    htmlTemplateEngine: false,
   };
 };

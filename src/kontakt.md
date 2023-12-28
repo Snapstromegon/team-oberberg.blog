@@ -6,4 +6,4 @@ eleventyNavigation:
 ---
 
 Falls Sie uns unterstützen wollen oder Fragen für uns haben, erreichen Sie und unter:
-[info@team-oberberg.blog](mailto:team-oberberg.blog)
+[{{settings.contactMail}}](mailto:{{settings.contactMail}})

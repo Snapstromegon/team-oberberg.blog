@@ -13,7 +13,7 @@ layout: layouts/main.njk
     <span class="age label">Alter</span>
     <span class="age value">{{birthday | age}}</span>
     <span class="prevWM label"># WM</span>
-    <span class="prevWM value">{{previousWMs}}</span>
+    <span class="prevWM value">{{wm}}</span>
     <span class="top3 label">Top 3 22/23</span>
     <span class="top3 value">{{top3since2022}}</span>
     {%- if top10inWM > 0 %}

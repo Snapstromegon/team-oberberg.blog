@@ -11,11 +11,11 @@ An der diesjährigen UNICON 18 - Unicycling Worldchampionships 2016 im spanische
 
 <section class="timeline">
   <a href="" class="timeline-entry">
-    <span class="date">01.01.24</span>
-    <span class="title">Start</span>
+    <span class="date">2023/24</span>
+    <span class="title">Vorbereitung</span>
   </a>
   <div href="" class="timeline-entry">
-    <span class="date">13.07.24</span>
+    <span class="date">11.07.24</span>
     <span class="title">Abflug</span>
   </div>
   <div href="" class="timeline-entry future">
@@ -27,7 +27,7 @@ An der diesjährigen UNICON 18 - Unicycling Worldchampionships 2016 im spanische
     <span class="title">Wettkampfende</span>
   </div>
   <div href="" class="timeline-entry future">
-    <span class="date">21.07.24</span>
+    <span class="date">27.07.24</span>
     <span class="title">Rückreise</span>
   </div>
 </section>
@@ -39,7 +39,11 @@ An der diesjährigen UNICON 18 - Unicycling Worldchampionships 2016 im spanische
     {% image newestPost.data.cover, "Post Cover Image" %}
     <p class="post_date">{{ newestPost.date | niceDate }}</p>
     <h2 class="post_title">{{ newestPost.data.title }}</h2>
-    <p class="post_abstract">{{ newestPost.data.abstract }}</p>
+    <div class="post_abstract">
+    
+{{ newestPost.data.abstract }}
+
+</div>
   </article>
 </a>
 
@@ -58,7 +62,7 @@ An der diesjährigen UNICON 18 - Unicycling Worldchampionships 2016 im spanische
       <span class="age label">Alter</span>
       <span class="age value">{{fahrer.data.birthday | age}}</span>
       <span class="prevWM label"># WM</span>
-      <span class="prevWM value">{{fahrer.data.previousWMs}}</span>
+      <span class="prevWM value">{{fahrer.data.wm}}</span>
       <span class="top3 label">Top 3 22/23</span>
       <span class="top3 value">{{fahrer.data.top3since2022}}</span>
       {%- if fahrer.data.top10inWM > 0 %}

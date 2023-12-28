@@ -18,7 +18,11 @@ pagination:
         {% image blogpost.data.cover, "Post Cover Image" %}
         <p class="post_date">{{ blogpost.date | niceDate }}</p>
         <h2 class="post_title">{{ blogpost.data.title }}</h2>
-        <p class="post_abstract">{{ blogpost.data.abstract }}</p>
+    <div class="post_abstract">
+    
+{{ blogpost.data.abstract }}
+
+</div>
       </article>
     </a>
   </li>

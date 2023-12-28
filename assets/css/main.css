@@ -277,6 +277,18 @@ main {
   }
 }
 
+article {
+  & picture{
+    display: flex; 
+  }
+  & img {
+    max-width: 100%;
+    width: auto;
+    max-height: 50dvh;
+    margin: auto;
+  }
+}
+
 article.blogpost {
   background: #333;
   overflow: hidden;
@@ -317,7 +329,7 @@ article.blogpost {
     text-decoration: none;
   }
 
-  & .post_abstract {
+  & .post_abstract > p {
     grid-area: content;
     padding: 0 1.5rem;
     padding-bottom: 1rem;
