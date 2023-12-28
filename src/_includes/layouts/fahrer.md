@@ -4,7 +4,11 @@ layout: layouts/main.njk
 
 <div class="card fahrer">
   <h3 class="name">{{ name }}</h3>
-  <h4 class="team">SSV Nümbrecht</h4>
+  <div class="team">
+  {%- for team in teams -%}
+  <h4>{{team}}</h4>
+  {%- endfor %}
+  </div>
   <div class="stats">
     <span class="age label">Alter</span>
     <span class="age value">{{birthday | age}}</span>
@@ -20,5 +24,8 @@ layout: layouts/main.njk
   {% image image, name %}
 </div>
 
-{{content | safe}}
+{% if cite %}
+> {{cite}}
+{% endif %}
 
+{{content | safe}}

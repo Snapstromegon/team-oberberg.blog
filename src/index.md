@@ -8,12 +8,15 @@ eleventyNavigation:
 An der diesjährigen UNICON 18 - Unicycling Worldchampionships 2016 im spanischen Donostia-San Sebastián nehmen vier Sportler/innen der Einrad-Wettkampfgruppe "All Stars on(e) Wheel" vom "TuS Reichshof" teil. Über unsere sportlichen Leistungen und Erlebnisse wollen wir Euch in diesem Blog auf dem Laufenden halten.
 
 ## Neuster Blogeintrag
-
-### {{(collections.blogposts | last).data.title}}
-
-Datum: {{(collections.blogposts | last).date | niceDate}}
-
-{{(collections.blogposts | last).data.abstract}}
+{% set newestPost = collections.blogposts | last %}
+<a href="{{ newestPost.url }}">
+  <article class="blogpost card card-hover">
+    {% image newestPost.data.cover, "Post Cover Image" %}
+    <p class="post_date">{{ newestPost.date | niceDate }}</p>
+    <h2 class="post_title">{{ newestPost.data.title }}</h2>
+    <p class="post_abstract">{{ newestPost.data.abstract }}</p>
+  </article>
+</a>
 
 ## Unsere Team für die USA
 
@@ -21,7 +24,11 @@ Datum: {{(collections.blogposts | last).date | niceDate}}
   {%for fahrer in collections.fahrer%}
   <a href="{{fahrer.url}}" class="card fahrer card-hover">
     <h3 class="name">{{ fahrer.data.name }}</h3>
-    <h4 class="team">SSV Nümbrecht</h4>
+    <div class="team">
+    {%- for team in fahrer.data.teams -%}
+    <h4>{{team}}</h4>
+    {%- endfor %}
+    </div>
     <div class="stats">
       <span class="age label">Alter</span>
       <span class="age value">{{fahrer.data.birthday | age}}</span>

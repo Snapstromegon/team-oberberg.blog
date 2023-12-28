@@ -5,6 +5,9 @@ previousWMs: 4
 top3since2022: 8
 top10inWM: 4 
 image: assets/img/team/kim-cut.png
+teams:
+  - SSV Nümbrecht
+  - RKB Freestyle Team
 competitions:
   - { calendar: Urban, event: "Jumps: Platform High & Long" }
   - { calendar: Urban, event: "Jumps: High & Long" }
@@ -15,5 +18,3 @@ competitions:
   - { calendar: Urban, event: "Trials" }
   - { calendar: Muni, event: "Muni: Cyclocross" }
 ---
-
-Hallo

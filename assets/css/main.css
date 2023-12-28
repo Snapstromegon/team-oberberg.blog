@@ -45,6 +45,27 @@ img {
   height: auto;
 }
 
+blockquote {
+  position: relative;
+  padding: 1rem;
+  padding-left: 4rem;
+  font-style: italic;
+
+  &:before {
+    content: "“";
+    font-size: 4rem;
+    left: 1rem;
+    color: #ff222c;
+    font-weight: bolder;
+    position: absolute;
+    top: 0;
+  }
+
+  > p:first-child {
+    margin: 0;
+  }
+}
+
 .content {
   max-width: 50rem;
   padding: 0 1rem;
@@ -174,7 +195,7 @@ main {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: repeat(2, auto 1fr);
     grid-template-areas: "agel prevWMl" "agev prevWMv" "top3l top10l" "top3v top10v";
-    padding-top: 2rem;
+    padding-top: 1rem;
     gap: 0 1rem;
 
     & .age.label {
@@ -235,6 +256,71 @@ main {
   }
 }
 
+.blogpostList {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+  gap: 2rem;
+  list-style: none;
+  margin-top: 2rem;
+
+  > li > a {
+    text-decoration: none;
+  }
+  & li {
+    container-type: inline-size;
+  }
+
+}
+
+article.blogpost {
+  background: #333;
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto 1fr;
+  grid-template-areas: "image date" "image title" "image content";
+  padding: 0;
+  height: 100%;
+  gap: 0.5rem;
+
+  > picture {
+    grid-area: image;
+  }
+
+  & img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  & .post_date {
+    grid-area: date;
+    padding: 0.5rem 1.5rem;
+    font-size: 0.8rem;
+    font-weight: bold;
+    margin: 0;
+    text-transform: uppercase;
+  }
+
+  & .post_title {
+    grid-area: title;
+    padding: 0 1.5rem;
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  & .post_abstract {
+    grid-area: content;
+    padding: 0 1.5rem;
+    padding-bottom: 1rem;
+    margin: 0;
+    line-height: 1.5;
+  }
+}
+
 @media (width < 35rem) {
   .fahrer {
     grid-template-columns: 1fr;
@@ -257,56 +343,18 @@ main {
       border-bottom: 1px solid #ffdc22;
     }
   }
+
+  article.blogpost {
+    grid-template-columns: 1fr;
+    grid-template-rows: 15rem auto auto 1fr;
+    grid-template-areas: "image" "date" "title" "content";
+  }
 }
 
-.blogpostList {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
-  gap: 2rem;
-  list-style: none;
-  margin-top: 2rem;
-
-  & article {
-    background: #333;
-    overflow: hidden;
-    display: grid;
-    grid-template-rows: 15rem auto;
+@container (max-width: 35rem) {
+  article.blogpost {
+    grid-template-columns: 1fr;
+    grid-template-rows: 15rem auto auto 1fr;
     grid-template-areas: "image" "date" "title" "content";
-    padding: 0;
-    padding-bottom: 1.5rem;
-    gap: 0.5rem;
-
-    & img {
-      grid-area: image;
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      object-position: center;
-    }
-
-    & .post_date {
-      grid-area: date;
-      padding: 0.5rem 1.5rem;
-      font-size: 0.8rem;
-      font-weight: bold;
-      margin: 0;
-      text-transform: uppercase;
-    }
-
-    & .post_title {
-      grid-area: title;
-      padding: 0 1.5rem;
-      margin: 0;
-      font-size: 1.2rem;
-      font-weight: bold;
-      text-decoration: none;
-    }
-
-    & .post_abstract {
-      grid-area: content;
-      padding: 0 1.5rem;
-      margin: 0;
-      line-height: 1.5;
-    }
   }
 }
