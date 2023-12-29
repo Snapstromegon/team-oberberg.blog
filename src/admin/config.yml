@@ -45,7 +45,6 @@ collections:
   - name: "events"
     label: "Events"
     folder: "src/events"
-    create: true
     fields:
       - { label: "Titel", name: "title", widget: "string" }
       - {
