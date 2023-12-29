@@ -27,7 +27,8 @@ function generateImages(src) {
 async function imageShortcode(
   src,
   alt,
-  sizes = "(min-width: 50rem) 50rem, 100vw"
+  sizes = "(min-width: 50rem) 50rem, 100vw",
+  lazy = true
 ) {
   if (src.startsWith("/")) {
     src = `.${src}`;
@@ -37,7 +38,7 @@ async function imageShortcode(
   const imageAttributes = {
     alt,
     decoding: "async",
-    loading: "lazy",
+    loading: lazy ? "lazy" : "eager",
     sizes,
   };
 
@@ -109,6 +110,7 @@ module.exports = function (eleventyConfig) {
   );
   eleventyConfig.addWatchTarget("./assets/");
   eleventyConfig.addPassthroughCopy("src/admin/config.yml");
+  eleventyConfig.addPassthroughCopy("assets/fonts/*");
   // Return your Object options:
   return {
     dir: { input: "src" },

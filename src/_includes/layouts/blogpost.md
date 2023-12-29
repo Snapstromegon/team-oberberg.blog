@@ -2,7 +2,9 @@
 layout: layouts/main.njk
 ---
 <article>
-{% image cover, "Post Cover" %}
+{% if cover %}
+  {% image cover, "Post Cover" %}
+{% endif %}
 
 # {{title}}
 

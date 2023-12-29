@@ -42,6 +42,40 @@ collections:
           "editor_components": ["11tyImage"],
         }
 
+  - name: "events"
+    label: "Events"
+    folder: "src/events"
+    create: true
+    fields:
+      - { label: "Titel", name: "title", widget: "string" }
+      - {
+          label: "Date",
+          name: "date",
+          widget: "datetime",
+          date_format: "DD.MM.YYYY",
+          time_format: false,
+        }
+      - {
+          label: "Anzeige Datum überschreiben",
+          name: "displayDate",
+          widget: "string",
+          optional: true,
+        }
+      - { label: "Unveröffentlicht", name: "unpublished", widget: "boolean" }
+      - {
+          label: "Cover",
+          name: "cover",
+          widget: "image",
+          allow_multiple: false,
+          optional: true,
+        }
+      - {
+          label: "Blog post content",
+          name: "body",
+          widget: "markdown",
+          "editor_components": ["11tyImage"],
+        }
+
   - name: "fahrer"
     label: "Fahrer"
     folder: "src/fahrer"

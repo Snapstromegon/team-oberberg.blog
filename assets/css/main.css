@@ -1,3 +1,12 @@
+/* architects-daughter-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Architects Daughter';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/assets/fonts/architects-daughter-v18-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -255,7 +264,7 @@ main {
     grid-area: image;
     grid-column: 1 / -1;
     margin-top: -8rem;
-    height: calc(18rem + 8em);
+    height: calc(18rem + 8rem);
     min-width: 0;
     width: auto;
     justify-self: end;
@@ -398,7 +407,7 @@ article.blogpost {
   }
 }
 
-@media (width < 35rem) {
+@media (width <= 35rem) {
   .fahrer {
     grid-template-columns: 1fr;
     grid-template-rows: auto auto auto 1fr;
@@ -415,7 +424,7 @@ article.blogpost {
     & img {
       margin-top: -10rem;
       margin-bottom: 0;
-      height: calc(10rem + 4em);
+      height: calc(10rem + 4rem);
       justify-self: center;
       border-bottom: 1px solid #ffdc22;
     }

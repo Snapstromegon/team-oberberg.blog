@@ -5,38 +5,31 @@ eleventyNavigation:
   order: 1
 ---
 
-An der diesjährigen UNICON 18 - Unicycling Worldchampionships 2016 im spanischen Donostia-San Sebastián nehmen vier Sportler/innen der Einrad-Wettkampfgruppe "All Stars on(e) Wheel" vom "TuS Reichshof" teil. Über unsere sportlichen Leistungen und Erlebnisse wollen wir Euch in diesem Blog auf dem Laufenden halten.
+An der diesjährigen UNICON 21 - Unicycling Worldchampionships 2024 in Bemidji, Minnesota, USA nehmen {{collections.fahrer.length}} SportlerInnen aus Oberberg teil. Über unsere sportlichen Leistungen und Erlebnisse wollen wir Euch in diesem Blog auf dem Laufenden halten.
 
 ## Der WM-Weg
 
 <section class="timeline">
-  <a href="" class="timeline-entry">
-    <span class="date">2023/24</span>
-    <span class="title">Vorbereitung</span>
-  </a>
-  <div href="" class="timeline-entry">
-    <span class="date">11.07.24</span>
-    <span class="title">Abflug</span>
-  </div>
-  <div href="" class="timeline-entry future">
-    <span class="date">14.07.24</span>
-    <span class="title">Wettkampfstart</span>
-  </div>
-  <div href="" class="timeline-entry future">
-    <span class="date">20.07.24</span>
-    <span class="title">Wettkampfende</span>
-  </div>
-  <div href="" class="timeline-entry future">
-    <span class="date">27.07.24</span>
-    <span class="title">Rückreise</span>
-  </div>
+  {% for event in collections.events -%}
+    {%- if event.data.unpublished -%}
+      <div class="timeline-entry future">
+        <span class="date">{{event.data.displayDate | default(event.date | niceDate)}}</span>
+        <span class="title">{{event.data.title}}</span>
+      </div>
+    {%- else -%}
+      <a href="{{event.url}}" class="timeline-entry">
+        <span class="date">{{event.data.displayDate | default(event.date | niceDate)}}</span>
+        <span class="title">{{event.data.title}}</span>
+      </a>
+    {%- endif -%}
+  {%- endfor %}
 </section>
 
 ## Neuster Blogeintrag
 {% set newestPost = collections.blogposts | last %}
 <a href="{{ newestPost.url }}">
   <article class="blogpost card card-hover">
-    {% image newestPost.data.cover, "Post Cover Image" %}
+    {% image newestPost.data.cover, "Post Cover Image", "(min-width: 35rem) 35rem, 100vw" %}
     <p class="post_date">{{ newestPost.date | niceDate }}</p>
     <h2 class="post_title">{{ newestPost.data.title }}</h2>
     <div class="post_abstract">
