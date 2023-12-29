@@ -82,6 +82,7 @@ collections:
     slug: "{{name}}.md"
     fields:
       - { label: "Name", name: "name", widget: "string" }
+      - { label: "Zitat", name: "cite", required: false, widget: "string" }
       - {
           label: "Geburtstag",
           name: "birthday",
@@ -103,7 +104,18 @@ collections:
           choose_url: false,
           allow_multiple: false,
         }
-      - { label: "Teams", name: "teams", widget: "list" }
+      - {
+          label: Teams,
+          name: teams,
+          widget: select,
+          multiple: true,
+          options:
+            [
+              "SSV Nümbrecht",
+              "RKB Freestyle Team",
+              "TuS Reichshof - All Stars On(e) Wheel",
+            ],
+        }
 
 local_backend: true
 backend:

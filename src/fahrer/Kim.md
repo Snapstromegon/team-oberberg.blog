@@ -6,8 +6,9 @@ top3since2022: 8
 top10inWM: 4
 image: assets/img/uploads/kim-cut.png
 teams:
-  - SSV Nümbrecht
   - RKB Freestyle Team
+  - SSV Nümbrecht
+  - TuS Reichshof - All Stars On(e) Wheel
 competitions:
   - calendar: Urban
     event: "Jumps: Platform High & Long"
