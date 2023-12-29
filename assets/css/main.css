@@ -421,8 +421,12 @@ article.blogpost {
 
 .competition-calendar {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
   gap: 0 1.5rem;
+
+  & .card {
+    padding: 1rem 1.5rem;
+  }
 
   & .date {
     font-weight: bold;
