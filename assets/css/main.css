@@ -1,10 +1,11 @@
 /* architects-daughter-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Architects Daughter';
+  font-family: "Architects Daughter";
   font-style: normal;
   font-weight: 400;
-  src: url('/assets/fonts/architects-daughter-v18-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url("/assets/fonts/architects-daughter-v18-latin-regular.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 * {
@@ -59,15 +60,27 @@ blockquote {
   padding: 1rem;
   padding-left: 4rem;
   font-style: italic;
+  margin-bottom: 1rem;
 
   &:before {
     content: "“";
     font-size: 4rem;
-    left: 1rem;
+    left: 0rem;
     color: #ff222c;
     font-weight: bolder;
     position: absolute;
     top: 0;
+  }
+
+  &:after {
+    content: "";
+    left: 3rem;
+    position: absolute;
+    top: 1rem;
+    height: calc(100% - 2rem);
+    width: .2rem;
+    background: linear-gradient(to bottom, #333, #ff222c, #ffdc22);
+    transform: translateX(-50%);
   }
 
   > p:first-child {
@@ -210,7 +223,7 @@ main {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: repeat(2, auto 1fr);
     grid-template-areas: "agel prevWMl" "agev prevWMv" "top3l top10l" "top3v top10v";
-    padding-top: .5rem;
+    padding-top: 0.5rem;
     gap: 0 1rem;
 
     & .age.label {
@@ -286,8 +299,8 @@ main {
 }
 
 article {
-  & picture{
-    display: flex; 
+  & picture {
+    display: flex;
   }
   & img {
     max-width: 100%;
@@ -357,7 +370,7 @@ article.blogpost {
     flex-direction: column;
     text-align: center;
     position: relative;
-    padding-top: .5rem;
+    padding-top: 0.5rem;
     margin-top: 1rem;
 
     &:before {
@@ -390,7 +403,7 @@ article.blogpost {
       border-radius: 50%;
       background: #ff222c;
     }
-    
+
     &.future:after {
       background: #333;
     }
@@ -403,6 +416,23 @@ article.blogpost {
     & .title {
       font-weight: bold;
     }
+  }
+}
+
+.competition-calendar {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+  gap: 0 1.5rem;
+
+  & .date {
+    font-weight: bold;
+    margin: 0;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+  }
+
+  & ul {
+    padding-left: 1rem;
   }
 }
 

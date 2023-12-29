@@ -1,6 +1,6 @@
 ---
 title: Wettkampfende
-date: 2024-07-20
+date: 2024-07-26
 unpublished: true
 ---
 

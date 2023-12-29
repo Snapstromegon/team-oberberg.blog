@@ -10,20 +10,14 @@ teams:
   - SSV Nümbrecht
   - TuS Reichshof - All Stars On(e) Wheel
 competitions:
-  - calendar: Urban
-    event: "Jumps: Platform High & Long"
-  - calendar: Urban
-    event: "Jumps: High & Long"
-  - calendar: Urban
-    event: Speed Trials
-  - calendar: Track
-    event: "Track: Coasting"
-  - calendar: Track
-    event: "Track: Stillstand"
-  - calendar: Muni
-    event: "Muni: Uphill, Beg Downhill & Beg Cross Country"
-  - calendar: Urban
-    event: Trials
-  - calendar: Muni
-    event: "Muni: Cyclocross"
+  - Hochsprung
+  - Weitsprung
+  - Platform Weitsprung
+  - Platform Hochsprung
+  - Speed Trials
+  - Trials
+  - Coasting
+  - Stillstand
+  - Anfänger Cross Country
+  - Cyclocross
 ---

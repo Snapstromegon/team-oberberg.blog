@@ -2,24 +2,14 @@
 name: Thomas Höser
 top10inWM: 0
 competitions:
-  - calendar: Track
-    event: IUF Slalom
-  - calendar: Track
-    event: IUF Slalom Final
-  - calendar: Track
-    event: "Back-up: IUF Slalom Final"
-  - calendar: Track
-    event: 100m
-  - calendar: Track
-    event: "Finals: 100m"
-  - calendar: Muni
-    event: "Muni Practice: Uphill, Beg Downhill & Beg Cross Country"
-  - calendar: Muni
-    event: "Muni: Uphill, Beg Downhill & Beg Cross Country"
-  - calendar: Urban
-    event: "Trials: Preliminaries"
-  - calendar: Muni
-    event: "Muni: Cyclocross"
+  - IUF Slalom
+  - Hochsprung
+  - Weitsprung
+  - Platform Weitsprung
+  - Platform Hochsprung
+  - Anfänger Cross Country
+  - Trials
+  - Cyclocross
 birthday: 1964-05-04
 wm: 2
 teams:

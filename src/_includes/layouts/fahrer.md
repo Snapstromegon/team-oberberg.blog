@@ -25,7 +25,24 @@ layout: layouts/main.njk
 </div>
 
 {% if cite %}
+
 > {{cite}}
+
 {% endif %}
+
+## Meine Wettkämpfe
+
+<ul class="competition-calendar">
+{% for day in competitionsByDay %}
+  <li class="card">
+    <p class="date">{{day.day | niceDate}}</p>
+    <ul>
+  {%-for competition in day.competitions-%}
+      <li>{{competition}}</li>
+  {%-endfor-%}
+    </ul>
+  </li>
+{% endfor %}
+</ul>
 
 {{content | safe}}
