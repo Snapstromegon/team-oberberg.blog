@@ -1,0 +1,109 @@
+Platform Hochsprung:
+  - { calendar: Urban, event: "Jumps: Platform High & Long" }
+  - {
+      calendar: Urban,
+      event: "Jumps: Finals and Tie-breakers for Platform High & Long",
+    }
+Platform Weitsprung:
+  - { calendar: Urban, event: "Jumps: Platform High & Long" }
+  - {
+      calendar: Urban,
+      event: "Jumps: Finals and Tie-breakers for Platform High & Long",
+    }
+
+Hochsprung:
+  - { calendar: Urban, event: "Jumps: High & Long" }
+  - {
+      calendar: Urban,
+      event: "Jumps: Finals and Tie-breakers for High Jump & Long Jump",
+    }
+Weitsprung:
+  - { calendar: Urban, event: "Jumps: High & Long" }
+  - {
+      calendar: Urban,
+      event: "Jumps: Finals and Tie-breakers for High Jump & Long Jump",
+    }
+
+Speed Trials:
+  - { calendar: Urban, event: "Speed Trials: Preliminaries" }
+  - { calendar: Urban, event: "Speed Trials: Finals" }
+
+Trials:
+  - { calendar: Urban, event: "Trials: Preliminaries" }
+  - { calendar: Urban, event: "Trials: Finals" }
+
+Coasting:
+  - { calendar: Track, event: "Track: Coasting" }
+
+Stillstand:
+  - { calendar: Track, event: "Track: Stillstand" }
+
+Uphill:
+  - {
+      calendar: Muni,
+      event: "Muni Practice: Uphill, Beg Downhill & Beg Cross Country",
+    }
+  - { calendar: Muni, event: "Muni: Uphill, Beg Downhill & Beg Cross Country" }
+Anfänger Downhill:
+  - {
+      calendar: Muni,
+      event: "Muni Practice: Uphill, Beg Downhill & Beg Cross Country",
+    }
+  - { calendar: Muni, event: "Muni: Uphill, Beg Downhill & Beg Cross Country" }
+Anfänger Cross Country:
+  - {
+      calendar: Muni,
+      event: "Muni Practice: Uphill, Beg Downhill & Beg Cross Country",
+    }
+  - { calendar: Muni, event: "Muni: Uphill, Beg Downhill & Beg Cross Country" }
+
+Fortgeschrittene Downhill:
+  - {
+      calendar: Muni,
+      event: "Muni Practice: Int & Elite Cross Country & Int Downhill",
+    }
+  - {
+      calendar: Muni,
+      event: "Muni: Int & Elite Cross Country & Int & Elite Downhill",
+    }
+Elite Downhill:
+  - {
+      calendar: Muni,
+      event: "Muni Practice: Int & Elite Cross Country & Int Downhill",
+    }
+  - {
+      calendar: Muni,
+      event: "Muni: Int & Elite Cross Country & Int & Elite Downhill",
+    }
+
+Cyclocross:
+  - { calendar: Muni, event: "Muni: Cyclocross" }
+
+IUF Slalom:
+  - { calendar: Track, event: IUF Slalom }
+  - { calendar: Track, event: IUF Slalom Final }
+
+Einbein:
+  - { calendar: Track, event: "800m, 50m 1-Foot" }
+  - { calendar: Track, event: "Finals: 800m, 50m 1-Foot" }
+
+Freestyle Einzel Altersklasse:
+  - { calendar: Freestyle, event: "Individual Age Group" }
+
+Freestyle Einzel Juniorexpert:
+  - { calendar: Freestyle, event: "Individual: Jr. Expert" }
+
+Freestyle Einzel Expert:
+  - { calendar: Freestyle, event: "Individual: Expert" }
+
+Freestyle Paar Altersklasse:
+  - { calendar: Freestyle, event: "Pairs Age Group" }
+
+Freestyle Paar Juniorexpert:
+  - { calendar: Freestyle, event: "Pairs: Jr. Expert & Expert" }
+
+Freestyle Paar Expert:
+  - { calendar: Freestyle, event: "Pairs: Jr. Expert & Expert" }
+
+X-Style:
+  - { calendar: Freestyle, event: "X-style" }

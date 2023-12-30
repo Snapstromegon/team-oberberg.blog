@@ -1,0 +1,527 @@
+/* architects-daughter-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Architects Daughter";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/assets/fonts/architects-daughter-v18-latin-regular.woff2")
+    format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.preview {
+  position: fixed;
+  display: block;
+  top: 0;
+  right: 0;
+  z-index: 10;
+  background: #f00;
+  width: 20rem;
+  transform-origin: 50% 50%;
+  transform: translate(6rem, 3rem) rotate(45deg);
+  color: #fff;
+  text-align: center;
+  font-size: 1.5rem;
+  padding: 0.2rem;
+  font-weight: bold;
+}
+
+html {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background: #300;
+}
+
+body {
+  background: hsl(13, 50%, 95%);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Architects Daughter", cursive;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+blockquote {
+  position: relative;
+  padding: 1rem;
+  padding-left: 4rem;
+  font-style: italic;
+  margin-bottom: 1rem;
+
+  &:before {
+    content: "“";
+    font-size: 4rem;
+    left: 0rem;
+    color: #ff222c;
+    font-weight: bolder;
+    position: absolute;
+    top: 0;
+  }
+
+  &:after {
+    content: "";
+    left: 3rem;
+    position: absolute;
+    top: 1rem;
+    height: calc(100% - 2rem);
+    width: .2rem;
+    background: linear-gradient(to bottom, #333, #ff222c, #ffdc22);
+    transform: translateX(-50%);
+  }
+
+  > p:first-child {
+    margin: 0;
+  }
+}
+
+a {
+  color: #ff222c;
+  text-decoration: none;
+}
+
+.content {
+  max-width: 50rem;
+  padding: 0 1rem;
+  margin: auto;
+}
+
+.card {
+  background: linear-gradient(to left, hsl(0deg 5% 50%), hsl(0deg 5% 10%));
+  border-radius: 3rem;
+  display: inline-block;
+  padding: 1.5rem 1.5rem 2rem 1.5rem;
+  margin-bottom: 2rem;
+  color: #fff;
+  box-shadow: 0.3rem 0.3rem 0rem #ff222c, -0.3rem 0.6rem 0rem #ffdc22;
+  transition: box-shadow 0.2s ease-in-out;
+}
+
+.card-hover:hover {
+  box-shadow: -0.5rem 0.5rem 0rem #ff222c, 0.5rem 1rem 0rem #ffdc22;
+}
+
+header {
+  .card {
+    margin-top: -7rem;
+
+    h1 {
+      margin-bottom: 0.5rem;
+    }
+  }
+
+  & img {
+    height: 50dvh;
+    object-fit: cover;
+    width: 100%;
+    object-position: center 25%;
+  }
+}
+
+aside {
+  position: sticky;
+  top: 0;
+  /* border-bottom: 1px solid #333; */
+  background: hsla(13, 50%, 95%, 0.75);
+  backdrop-filter: blur(0.5rem);
+  transform: translateY(-1px);
+  z-index: 1;
+
+  & nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    font-size: 1.2rem;
+    gap: 0.5rem 0;
+
+    & ul {
+      display: none;
+    }
+
+    & a {
+      padding: 0.5rem 1rem;
+      text-decoration: none;
+      font-weight: bold;
+      color: #333;
+      display: inline-block;
+      border-bottom: 0.3rem solid transparent;
+      font-family: "Architects Daughter", cursive;
+
+      &.current {
+        border-color: hsl(0deg 5% 10%);
+      }
+
+      &:hover {
+        border-color: #ff222c;
+      }
+    }
+  }
+}
+
+footer {
+  padding: 2rem 0;
+}
+
+main {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+  }
+}
+
+.fahrer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto 1fr;
+  grid-template-areas: "name image" "team image" "stats image";
+  margin-top: 10rem;
+  padding: 2rem;
+  padding-bottom: 0;
+  text-decoration: none;
+  & h3,
+  h4 {
+    margin: 0;
+  }
+
+  &:first-child {
+    margin-top: 6rem;
+  }
+
+  & .name {
+    grid-area: name;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+
+  & .team {
+    grid-area: team;
+    color: #aaa;
+  }
+
+  & .stats {
+    grid-area: stats;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(2, auto 1fr);
+    grid-template-areas: "agel prevWMl" "agev prevWMv" "top3l top10l" "top3v top10v";
+    padding-top: 0.5rem;
+    gap: 0 1rem;
+
+    & .age.label {
+      grid-area: agel;
+    }
+
+    & .age.value {
+      grid-area: agev;
+    }
+
+    & .prevWM.label {
+      grid-area: prevWMl;
+    }
+
+    & .prevWM.value {
+      grid-area: prevWMv;
+    }
+
+    & .top3.label {
+      grid-area: top3l;
+    }
+
+    & .top3.value {
+      grid-area: top3v;
+    }
+
+    & .top10.label {
+      grid-area: top10l;
+    }
+
+    & .top10.value {
+      grid-area: top10v;
+    }
+
+    & .label {
+      justify-self: start;
+      color: #aaa;
+    }
+
+    & .value {
+      font-family: "Architects Daughter", cursive;
+      font-size: 2rem;
+    }
+  }
+
+  & picture {
+    display: contents;
+  }
+  & img {
+    grid-area: image;
+    grid-column: 1 / -1;
+    margin-top: -8rem;
+    height: calc(18rem + 8rem);
+    min-width: 0;
+    width: auto;
+    justify-self: end;
+  }
+}
+
+.blogpostList {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+  gap: 2rem;
+  list-style: none;
+  margin-top: 2rem;
+
+  > li > a {
+    text-decoration: none;
+  }
+  & li {
+    container-type: inline-size;
+  }
+}
+
+article {
+  & picture {
+    display: flex;
+  }
+  & img {
+    max-width: 100%;
+    width: auto;
+    max-height: 50dvh;
+    margin: auto;
+  }
+}
+
+article.blogpost {
+  background: #333;
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto 1fr;
+  grid-template-areas: "image date" "image title" "image content";
+  padding: 0;
+  height: 100%;
+  gap: 0.5rem;
+
+  > picture {
+    grid-area: image;
+  }
+
+  & img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  & .post_date {
+    grid-area: date;
+    padding: 0.5rem 1.5rem;
+    font-size: 0.8rem;
+    font-weight: bold;
+    margin: 0;
+    text-transform: uppercase;
+  }
+
+  & .post_title {
+    grid-area: title;
+    padding: 0 1.5rem;
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  & .post_abstract > p {
+    grid-area: content;
+    padding: 0 1.5rem;
+    padding-bottom: 1rem;
+    margin: 0;
+    line-height: 1.5;
+  }
+}
+
+.timeline {
+  display: flex;
+  width: 100%;
+  justify-content: stretch;
+
+  & .timeline-entry {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    text-align: center;
+    position: relative;
+    padding-top: 0.5rem;
+    margin-top: 1rem;
+
+    &:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      border-top: 0.1rem solid #333;
+    }
+
+    &:first-child:before {
+      left: 50%;
+      width: 50%;
+    }
+
+    &:last-child:before {
+      left: 0;
+      width: 50%;
+    }
+
+    &:after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 0.5rem;
+      height: 0.5rem;
+      border-radius: 50%;
+      background: #ff222c;
+    }
+
+    &.future:after {
+      background: #333;
+    }
+
+    & .date {
+      color: #333;
+      text-decoration: none;
+    }
+
+    & .title {
+      font-weight: bold;
+    }
+  }
+}
+
+.competition-calendar {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+  gap: 0 1.5rem;
+
+  & .card {
+    padding: 1rem 1.5rem;
+  }
+
+  & .date {
+    font-weight: bold;
+    margin: 0;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+  }
+
+  & ul {
+    padding-left: 1rem;
+  }
+}
+
+@media (width <= 35rem) {
+  .fahrer {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto 1fr;
+    grid-template-areas: "image" "name" "team" "stats";
+
+    &:first-child {
+      margin-top: 10rem;
+    }
+
+    & .name {
+      margin-top: 1rem;
+    }
+
+    & img {
+      margin-top: -10rem;
+      margin-bottom: 0;
+      height: calc(10rem + 4rem);
+      justify-self: center;
+      border-bottom: 1px solid #ffdc22;
+    }
+
+    & .stats {
+      margin-bottom: 1rem;
+    }
+  }
+
+  article.blogpost {
+    grid-template-columns: 1fr;
+    grid-template-rows: 15rem auto auto 1fr;
+    grid-template-areas: "image" "date" "title" "content";
+  }
+
+  .timeline {
+    flex-direction: column;
+
+    .timeline-entry {
+      padding: 0.5rem 0;
+      padding-left: 2rem;
+      flex-direction: row;
+      gap: 0 1rem;
+      margin-top: 0;
+
+      &:before {
+        left: 1rem;
+        top: 0%;
+        width: 0.1rem;
+        height: 100%;
+        border-top: none;
+        border-left: 0.1rem solid #333;
+      }
+
+      &:first-child:before {
+        left: 1rem;
+        top: 50%;
+        width: 0.1rem;
+        height: 50%;
+        border-top: none;
+        border-left: 0.1rem solid #333;
+      }
+
+      &:last-child:before {
+        left: 1rem;
+        top: 0;
+        width: 0.1rem;
+        height: 50%;
+        border-top: none;
+        border-left: 0.1rem solid #333;
+      }
+
+      &:after {
+        left: 1rem;
+        top: 50%;
+      }
+    }
+  }
+}
+
+@container (max-width: 35rem) {
+  article.blogpost {
+    grid-template-columns: 1fr;
+    grid-template-rows: 15rem auto auto 1fr;
+    grid-template-areas: "image" "date" "title" "content";
+  }
+}

@@ -1,0 +1,24 @@
+<header>
+  {% image settings.headerImage, "Team Oberberg", "100vw", false %}
+
+  {% if isPreview %}
+    <div class="preview">Vorschau!</div>
+  {% endif %}
+
+  <div class="content">
+    <div class="card">
+      <h1>WM-Blog Unicon 21</h1>
+      <h2>Team Oberberg</h2>
+    </div>
+  </div>
+</header>
+<aside>
+  <div class="content">
+    <nav>
+      {{ collections.all | eleventyNavigation | eleventyNavigationToHtml({
+        activeKey: eleventyNavigation.key or eleventyNavigation.parent,
+        activeAnchorClass: "current"
+      }) | safe }}
+    </nav>
+  </div>
+</aside>

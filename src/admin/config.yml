@@ -1,0 +1,123 @@
+site_url: https://team-oberberg.blog
+media_folder: assets/img/uploads
+
+collections:
+  - name: "pages"
+    label: "Seiten"
+    files:
+      - label: "Kontakt"
+        name: "contact"
+        file: "src/kontakt.md"
+        fields:
+          - {
+              label: "Blog post content",
+              name: "body",
+              widget: "markdown",
+              "editor_components": ["11tyImage"],
+            }
+      - label: "Settings"
+        name: "settings"
+        file: "src/_data/settings.yaml"
+        fields:
+          - { label: "Header Image", name: "headerImage", widget: "image" }
+          - { label: "Contact Mail", name: "contactMail", widget: "string" }
+  - name: "blog"
+    label: "Blog"
+    folder: "src/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Vorschau", name: "abstract", widget: "string" }
+      - {
+          label: "Cover",
+          name: "cover",
+          widget: "image",
+          allow_multiple: false,
+        }
+      - {
+          label: "Blog post content",
+          name: "body",
+          widget: "markdown",
+          "editor_components": ["11tyImage"],
+        }
+
+  - name: "events"
+    label: "Events"
+    folder: "src/events"
+    fields:
+      - { label: "Titel", name: "title", widget: "string" }
+      - {
+          label: "Date",
+          name: "date",
+          widget: "datetime",
+          date_format: "DD.MM.YYYY",
+          time_format: false,
+        }
+      - {
+          label: "Anzeige Datum überschreiben",
+          name: "displayDate",
+          widget: "string",
+          optional: true,
+        }
+      - { label: "Unveröffentlicht", name: "unpublished", widget: "boolean" }
+      - {
+          label: "Cover",
+          name: "cover",
+          widget: "image",
+          allow_multiple: false,
+          optional: true,
+        }
+      - {
+          label: "Blog post content",
+          name: "body",
+          widget: "markdown",
+          "editor_components": ["11tyImage"],
+        }
+
+  - name: "fahrer"
+    label: "Fahrer"
+    folder: "src/fahrer"
+    create: true
+    slug: "{{name}}.md"
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Zitat", name: "cite", required: false, widget: "string" }
+      - {
+          label: "Geburtstag",
+          name: "birthday",
+          widget: "datetime",
+          date_format: "DD.MM.YYYY",
+          time_format: false,
+        }
+      - { label: "WM#", name: "wm", widget: "number" }
+      - {
+          label: "Top 3 Plätze im letzten Jahr",
+          name: "top3since2022",
+          widget: "number",
+        }
+      - { label: "Top 10 Plätze in WMs", name: "top10inWM", widget: "number" }
+      - {
+          label: "Bild - nur mit transparentem Hintergrund",
+          name: "image",
+          widget: "image",
+          choose_url: false,
+          allow_multiple: false,
+        }
+      - {
+          label: Teams,
+          name: teams,
+          widget: select,
+          multiple: true,
+          options:
+            [
+              "SSV Nümbrecht",
+              "RKB Freestyle Team",
+              "TuS Reichshof - All Stars On(e) Wheel",
+            ],
+        }
+
+local_backend: true
+backend:
+  name: git-gateway
+  branch: main

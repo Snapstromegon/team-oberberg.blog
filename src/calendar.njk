@@ -1,0 +1,19 @@
+---
+layout: layouts/main.njk
+---
+
+<h1>Calendar</h1>
+
+{% for name, entry in googleCal %}
+
+<h2>{{ entry.summary }}</h2>
+<p>Updated: {{ entry.updated }}</p>
+<ul>
+  {% for item in entry.items %}
+  <li>
+    {{ item.start.dateTime }} - {{ item.end.dateTime }} - {{ item.summary }} -
+    {{ item.location }}
+  </li>
+  {% endfor %}
+</ul>
+{% endfor %}
