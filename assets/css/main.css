@@ -124,10 +124,10 @@ header {
   }
 
   & img {
-    max-height: 50dvh;
+    height: 50dvh;
     object-fit: cover;
     width: 100%;
-    object-position: center 10%;
+    object-position: center 25%;
   }
 }
 

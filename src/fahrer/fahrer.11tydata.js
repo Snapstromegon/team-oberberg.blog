@@ -1,5 +1,3 @@
-console.log("Hallo");
-
 module.exports = {
   eleventyComputed: {
     competitionCalendar: (data) => {
@@ -33,7 +31,6 @@ module.exports = {
           competitionsByDay[day].add(competition.competition);
         }
       }
-      console.log(competitionsByDay);
 
       return [...Object.entries(competitionsByDay)].map(
         ([day, competitions]) => ({ day: new Date(day), competitions })
