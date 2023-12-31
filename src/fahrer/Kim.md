@@ -20,4 +20,5 @@ competitions:
   - Stillstand
   - Anfänger Cross Country
   - Cyclocross
+  - Freestyle Paar Altersklasse
 ---
