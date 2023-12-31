@@ -9,4 +9,6 @@ teams:
   - SSV Nümbrecht
   - RKB Freestyle Team
   - TuS Reichshof - All Stars On(e) Wheel
+competitions:
+  - Weitsprung
 ---
