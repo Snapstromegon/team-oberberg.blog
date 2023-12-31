@@ -1,6 +1,6 @@
 ---
 name: Swantje Wicker
-startNo: 4
+startNo: 202
 cite: Die Verbindung von faszinierenden Tricks und tänzerischer Leidenschaft,
   das liebe ich am Freestyle-Sport.
 birthday: 1995-12-16T09:05:57.619Z
