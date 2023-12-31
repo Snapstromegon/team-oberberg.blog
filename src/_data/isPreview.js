@@ -1,5 +1,5 @@
-console.log("Run Mode: ", data.eleventy.env.runMode);
-console.log("Branch: ", data.eleventy.env.BRANCH);
+console.log("Run Mode: ", process.env.runMode);
+console.log("Branch: ", process.env.BRANCH);
 
 module.exports = (data) =>
   data.eleventy.env.runMode === "serve" || data.eleventy.env.BRANCH !== "main";
