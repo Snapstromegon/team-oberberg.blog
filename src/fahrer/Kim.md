@@ -21,4 +21,5 @@ competitions:
   - Anfänger Cross Country
   - Cyclocross
   - Freestyle Paar Altersklasse
+  - Freestyle Großgruppe Expert
 ---
