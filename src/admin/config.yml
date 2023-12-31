@@ -9,12 +9,11 @@ collections:
         name: "contact"
         file: "src/kontakt.md"
         fields:
-          - {
-              label: "Blog post content",
-              name: "body",
-              widget: "markdown",
-              "editor_components": ["11tyImage"],
-            }
+          - label: "Blog post content"
+            name: "body"
+            widget: "markdown"
+            "editor_components": ["11tyImage"]
+
       - label: "Settings"
         name: "settings"
         file: "src/_data/settings.yaml"
@@ -29,93 +28,103 @@ collections:
     fields:
       - { label: "Titel", name: "title", widget: "string" }
       - { label: "Vorschau", name: "abstract", widget: "string" }
-      - {
-          label: "Cover",
-          name: "cover",
-          widget: "image",
-          allow_multiple: false,
-        }
-      - {
-          label: "Blog post content",
-          name: "body",
-          widget: "markdown",
-          "editor_components": ["11tyImage"],
-        }
+      - label: "Cover"
+        name: "cover"
+        widget: "image"
+        allow_multiple: false
+
+      - label: "Blog post content"
+        name: "body"
+        widget: "markdown"
+        "editor_components": ["11tyImage"]
 
   - name: "events"
     label: "Events"
     folder: "src/events"
     fields:
       - { label: "Titel", name: "title", widget: "string" }
-      - {
-          label: "Date",
-          name: "date",
-          widget: "datetime",
-          date_format: "DD.MM.YYYY",
-          time_format: false,
-        }
-      - {
-          label: "Anzeige Datum überschreiben",
-          name: "displayDate",
-          widget: "string",
-          optional: true,
-        }
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        date_format: "DD.MM.YYYY"
+        time_format: false
+
+      - label: "Anzeige Datum überschreiben"
+        name: "displayDate"
+        widget: "string"
+        optional: true
+
       - { label: "Unveröffentlicht", name: "unpublished", widget: "boolean" }
-      - {
-          label: "Cover",
-          name: "cover",
-          widget: "image",
-          allow_multiple: false,
-          optional: true,
-        }
-      - {
-          label: "Blog post content",
-          name: "body",
-          widget: "markdown",
-          "editor_components": ["11tyImage"],
-        }
+      - label: "Cover"
+        name: "cover"
+        widget: "image"
+        allow_multiple: false
+        optional: true
+
+      - label: "Blog post content"
+        name: "body"
+        widget: "markdown"
+        "editor_components": ["11tyImage"]
 
   - name: "fahrer"
     label: "Fahrer"
     folder: "src/fahrer"
     create: true
-    slug: "{{name}}.md"
+    slug: "{{name}}"
     fields:
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Zitat", name: "cite", required: false, widget: "string" }
-      - {
-          label: "Geburtstag",
-          name: "birthday",
-          widget: "datetime",
-          date_format: "DD.MM.YYYY",
-          time_format: false,
-        }
+      - label: "Geburtstag"
+        name: "birthday"
+        widget: "datetime"
+        date_format: "DD.MM.YYYY"
+        time_format: false
       - { label: "WM#", name: "wm", widget: "number" }
-      - {
-          label: "Top 3 Plätze im letzten Jahr",
-          name: "top3since2022",
-          widget: "number",
-        }
+      - label: "Top 3 Plätze im letzten Jahr"
+        name: "top3since2022"
+        widget: "number"
       - { label: "Top 10 Plätze in WMs", name: "top10inWM", widget: "number" }
-      - {
-          label: "Bild - nur mit transparentem Hintergrund",
-          name: "image",
-          widget: "image",
-          choose_url: false,
-          allow_multiple: false,
-        }
-      - {
-          label: Teams,
-          name: teams,
-          widget: select,
-          multiple: true,
-          options:
-            [
-              "SSV Nümbrecht",
-              "RKB Freestyle Team",
-              "TuS Reichshof - All Stars On(e) Wheel",
-            ],
-        }
+      - label: "Bild - nur mit transparentem Hintergrund"
+        name: "image"
+        widget: "image"
+        choose_url: false
+        allow_multiple: false
+      - label: Teams
+        name: teams
+        widget: select
+        multiple: true
+        options:
+          - "SSV Nümbrecht"
+          - "RKB Freestyle Team"
+          - "TuS Reichshof - All Stars On(e) Wheel"
+      - label: Wettkämpfe
+        name: competitions
+        widget: select
+        multiple: true
+        options:
+          - Hochsprung
+          - Weitsprung
+          - Platform Hochsprung
+          - Platform Weitsprung
+          - Speed Trials
+          - Trials
+          - Coasting
+          - Stillstand
+          - Uphill
+          - Anfänger Downhill
+          - Anfänger Cross Country
+          - Fortgeschrittene Downhill
+          - Elite Downhill
+          - Cyclocross
+          - IUF Slalom
+          - Einbein
+          - Freestyle Einzel Altersklasse
+          - Freestyle Einzel Juniorexpert
+          - Freestyle Einzel Expert
+          - Freestyle Paar Altersklasse
+          - Freestyle Paar Juniorexpert
+          - Freestyle Paar Expert
+          - X-Style
 
 local_backend: true
 backend:
