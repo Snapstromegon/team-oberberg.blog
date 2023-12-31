@@ -18,4 +18,5 @@ competitions:
   - Anfänger Cross Country
   - Freestyle Einzel Altersklasse
   - Freestyle Einzel Expert
+  - Einbein
 ---
