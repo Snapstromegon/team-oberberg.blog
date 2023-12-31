@@ -5,7 +5,7 @@ birthday: 2007-03-30T08:12:25.589Z
 wm: 1
 top3since2022: 12
 top10inWM: 0
-image: /assets/img/uploads/jonas.png
+image: /assets/img/uploads/jonas-cut-2.png
 teams:
   - SSV Nümbrecht
   - RKB Freestyle Team
