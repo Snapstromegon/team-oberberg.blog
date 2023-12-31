@@ -19,4 +19,5 @@ competitions:
   - Freestyle Einzel Altersklasse
   - Freestyle Einzel Expert
   - Einbein
+  - Radlauf
 ---
