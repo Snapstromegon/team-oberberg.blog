@@ -43,9 +43,9 @@ An der diesjährigen UNICON 21 - Unicycling Worldchampionships 2024 in Bemidji, 
 ## Unsere Team für die USA
 
 <section class="fahrer-cards">
-  {%for fahrer in collections.fahrer%}
+  {%for fahrer in collections.fahrer | sortByStartNo%}
   <a href="{{fahrer.url}}" class="card fahrer card-hover">
-    <h3 class="name">{{ fahrer.data.name }}</h3>
+    <h3 class="name">#&thinsp;{{fahrer.data.startNo}} {{ fahrer.data.name }}</h3>
     <div class="team">
     {%- for team in fahrer.data.teams -%}
     <h4>{{team}}</h4>

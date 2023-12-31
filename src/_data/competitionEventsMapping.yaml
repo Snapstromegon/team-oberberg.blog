@@ -91,6 +91,14 @@ Radlauf:
   - { calendar: Track, event: "100m, 10/30m WW" }
   - { calendar: Track, event: "Finals: 100m, WW, Possible 800m" }
 
+100m:
+  - { calendar: Track, event: "100m, 10/30m WW" }
+  - { calendar: Track, event: "Finals: 100m, WW, Possible 800m" }
+
+400m:
+  - { calendar: Track, event: "4x100m Relay, 400m" }
+  - { calendar: Track, event: "Finals: 4x100m Relay, 400m" }
+
 Freestyle Einzel Altersklasse:
   - { calendar: Freestyle, event: "Individual Age Group" }
 

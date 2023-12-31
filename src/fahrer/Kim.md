@@ -1,5 +1,6 @@
 ---
 name: Kim Höser
+startNo: 1
 birthday: 2001-09-21
 wm: 4
 top3since2022: 8

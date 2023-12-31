@@ -95,6 +95,9 @@ module.exports = function (eleventyConfig) {
     const age = now.getFullYear() - new Date(date).getFullYear();
     return age;
   });
+  eleventyConfig.addFilter("sortByStartNo", (starters) =>
+    [...starters].sort((a, b) => a.data.startNo - b.data.startNo)
+  );
 
   eleventyConfig.addAsyncShortcode("image", imageShortcode);
   eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));

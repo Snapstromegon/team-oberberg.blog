@@ -73,6 +73,7 @@ collections:
     slug: "{{name}}"
     fields:
       - { label: "Name", name: "name", widget: "string" }
+      - { label: "Startnummer", name: "startNo", widget: "number" }
       - { label: "Zitat", name: "cite", required: false, widget: "string" }
       - label: "Geburtstag"
         name: "birthday"

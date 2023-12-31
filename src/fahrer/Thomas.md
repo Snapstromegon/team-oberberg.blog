@@ -1,5 +1,6 @@
 ---
 name: Thomas Höser
+startNo: 2
 top10inWM: 0
 competitions:
   - IUF Slalom
