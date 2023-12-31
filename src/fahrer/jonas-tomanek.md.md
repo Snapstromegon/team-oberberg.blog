@@ -1,6 +1,6 @@
 ---
 name: Jonas Tomanek
-birthday: 2023-12-31T09:12:25.589Z
+birthday: 2007-03-30T08:12:25.589Z
 wm: 1
 top3since2022: 12
 top10inWM: 0
