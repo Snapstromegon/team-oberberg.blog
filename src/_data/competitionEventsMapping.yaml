@@ -87,6 +87,10 @@ Einbein:
   - { calendar: Track, event: "800m, 50m 1-Foot" }
   - { calendar: Track, event: "Finals: 800m, 50m 1-Foot" }
 
+Radlauf:
+  - { calendar: Track, event: "100m, 10/30m WW" }
+  - { calendar: Track, event: "Finals: 100m, WW, Possible 800m" }
+
 Freestyle Einzel Altersklasse:
   - { calendar: Freestyle, event: "Individual Age Group" }
 
@@ -104,6 +108,9 @@ Freestyle Paar Juniorexpert:
 
 Freestyle Paar Expert:
   - { calendar: Freestyle, event: "Pairs: Jr. Expert & Expert" }
+
+Freestyle Großgruppe Expert:
+  - { calendar: Freestyle, event: "Group Small & Large" }
 
 X-Style:
   - { calendar: Freestyle, event: "X-style" }

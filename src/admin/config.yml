@@ -118,12 +118,14 @@ collections:
           - Cyclocross
           - IUF Slalom
           - Einbein
+          - Radlauf
           - Freestyle Einzel Altersklasse
           - Freestyle Einzel Juniorexpert
           - Freestyle Einzel Expert
           - Freestyle Paar Altersklasse
           - Freestyle Paar Juniorexpert
           - Freestyle Paar Expert
+          - Freestyle Großgruppe Expert
           - X-Style
 
 local_backend: true
