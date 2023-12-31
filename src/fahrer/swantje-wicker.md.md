@@ -10,4 +10,5 @@ image: /assets/img/uploads/swantje.png
 teams:
   - SSV Nümbrecht
   - RKB Freestyle Team
+competitions: []
 ---
