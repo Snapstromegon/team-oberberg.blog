@@ -11,4 +11,11 @@ teams:
   - TuS Reichshof - All Stars On(e) Wheel
 competitions:
   - Weitsprung
+  - Coasting
+  - IUF Slalom
+  - Anfänger Downhill
+  - Cyclocross
+  - Anfänger Cross Country
+  - Freestyle Einzel Altersklasse
+  - Freestyle Einzel Expert
 ---
