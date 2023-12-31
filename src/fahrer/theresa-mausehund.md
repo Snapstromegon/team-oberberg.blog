@@ -17,5 +17,6 @@ competitions:
   - Einbein
   - IUF Slalom
   - X-Style
-  - Trials
+  - Anfänger Cross Country
+  - Cyclocross
 ---
