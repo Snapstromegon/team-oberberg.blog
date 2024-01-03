@@ -20,6 +20,7 @@ collections:
         fields:
           - { label: "Header Image", name: "headerImage", widget: "image" }
           - { label: "Contact Mail", name: "contactMail", widget: "string" }
+          - { label: "Teaser Text", name: "teaserText", widget: "text" }
   - name: "blog"
     label: "Blog"
     folder: "src/blog"

@@ -5,7 +5,7 @@ eleventyNavigation:
   order: 1
 ---
 
-An der diesjährigen UNICON 21 - Unicycling Worldchampionships 2024 in Bemidji, Minnesota, USA nehmen {{collections.fahrer.length}} SportlerInnen aus Oberberg teil. Über unsere sportlichen Leistungen und Erlebnisse wollen wir Euch in diesem Blog auf dem Laufenden halten.
+{{settings.teaserText}}
 
 ## Der WM-Weg
 
