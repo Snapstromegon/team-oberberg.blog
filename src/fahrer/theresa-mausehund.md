@@ -12,6 +12,7 @@ teams:
   - SSV Nümbrecht
   - RKB Freestyle Team
   - TuS Reichshof - All Stars On(e) Wheel
+  - SSF Bonn
 competitions:
   - Weitsprung
   - Coasting
