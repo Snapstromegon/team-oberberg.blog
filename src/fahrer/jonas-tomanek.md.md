@@ -18,7 +18,6 @@ competitions:
   - Cyclocross
   - Anfänger Cross Country
   - Freestyle Einzel Altersklasse
-  - Freestyle Einzel Expert
   - Einbein
   - Radlauf
 ---
