@@ -20,4 +20,5 @@ competitions:
   - X-Style
   - Anfänger Cross Country
   - Cyclocross
+  - Freestyle Großgruppe Expert
 ---
