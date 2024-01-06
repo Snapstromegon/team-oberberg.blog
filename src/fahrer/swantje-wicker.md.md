@@ -13,8 +13,6 @@ teams:
   - RKB Freestyle Team
 competitions:
   - Freestyle Einzel Altersklasse
-  - Freestyle Einzel Expert
-  - Freestyle Paar Altersklasse
   - X-Style
   - Cyclocross
 ---
