@@ -4,7 +4,8 @@ abstract: "Wir, das Einradteam Oberberg, nehmen an 19 unterschiedlichen
   Disziplinen bei der UNICON 21 - Unicycling World Convention and Championships
   2024 in Bemidji, Minnesota, USA, teil. Unsere einzelnen Disziplinen können zu
   je einem der folgenden Bereiche zugeordnet werden: Track, Freestyle, Urban und
-  Muni. "
+  Muni. Wir freuen uns auf die UNICON 21 mit großartigen sportlichen Leistungen
+  innerhalb einer tollen Einrad-Community!"
 cover: /assets/img/uploads/tz6_9409.jpg
 ---
 Wir, das Einradteam Oberberg, nehmen an 19 unterschiedlichen Disziplinen bei der UNICON 21 - Unicycling World Convention and Championships 2024 in Bemidji, Minnesota, USA, teil. Unsere einzelnen Disziplinen können zu je einem der folgenden Bereiche zugeordnet werden: Track, Freestyle, Urban und Muni. Diese stellen wir in den kommenden Blogbeiträgen vor, um einen Einblick in unsere vielfältige Sportart zu ermöglichen.
