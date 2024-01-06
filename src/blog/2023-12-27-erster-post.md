@@ -15,6 +15,4 @@ Die UNICON ist ein Einradevent, bei dem unglaublich viele Einradfahrer auf einma
 
 Wir freuen uns auf die UNICON 21 mit großartigen sportlichen Leistungen innerhalb einer tollen Einrad-Community!
 
-
-
-{% image "/assets/img/uploads/screenshot-2023-08-11-161934.png", "Ein Alternativtext" %}
+{% image "", "Ein Alternativtext" %}
