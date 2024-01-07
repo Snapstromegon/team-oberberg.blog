@@ -1,5 +1,5 @@
 ---
-title: Überblick 11
+title: Überblick
 abstract: "Wir, das Einradteam Oberberg, nehmen an 19 unterschiedlichen
   Disziplinen bei der UNICON 21 - Unicycling World Convention and Championships
   2024 in Bemidji, Minnesota, USA, teil. Unsere einzelnen Disziplinen können zu
