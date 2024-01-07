@@ -15,5 +15,3 @@ Das Besondere an der UNICON ist, dass an einem Wettkampf alle Disziplinen angebo
 Die UNICON ist ein Einradevent, bei dem unglaublich viele Einradfahrer auf einmal mit beeindruckenden sportlichen Leistungen anwesend sind, Inspirationen für das eigene Training gesammelt werden, und mit einer Atmosphäre, die sich durch Spaß am Sport, Ehrgeiz und Unterstützung kennzeichnet.
 
 Wir freuen uns auf die UNICON 21 mit großartigen sportlichen Leistungen innerhalb einer tollen Einrad-Community!
-
-{% image "", "Ein Alternativtext" %}
