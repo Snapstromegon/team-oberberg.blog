@@ -129,6 +129,7 @@ collections:
           - Freestyle Paar Juniorexpert
           - Freestyle Paar Expert
           - Freestyle Großgruppe Expert
+          - Freestyle Kleingruppe Expert
           - X-Style
 
 local_backend: true

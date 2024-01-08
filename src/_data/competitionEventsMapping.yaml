@@ -120,5 +120,8 @@ Freestyle Paar Expert:
 Freestyle Großgruppe Expert:
   - { calendar: Freestyle, event: "Group Small & Large" }
 
+Freestyle Kleingruppe Expert:
+  - { calendar: Freestyle, event: "Group Small & Large" }
+
 X-Style:
   - { calendar: Freestyle, event: "X-style" }

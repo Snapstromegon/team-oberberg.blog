@@ -18,5 +18,6 @@ competitions:
   - Freestyle Paar Altersklasse
   - X-Style
   - Freestyle Großgruppe Expert
+  - Freestyle Kleingruppe Expert
   - Anfänger Cross Country
 ---
