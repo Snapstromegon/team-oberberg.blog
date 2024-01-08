@@ -12,6 +12,11 @@ teams:
   - SSV Nümbrecht
   - RKB Freestyle Team
 competitions:
-  - Freestyle Einzel Altersklasse
   - Freestyle Einzel Expert
+  - Anfänger Downhill
+  - Cyclocross
+  - Freestyle Paar Altersklasse
+  - X-Style
+  - Freestyle Großgruppe Expert
+  - Anfänger Cross Country
 ---
