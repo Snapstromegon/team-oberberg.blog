@@ -14,7 +14,6 @@ competitions:
   - Weitsprung
   - Coasting
   - IUF Slalom
-  - Anfänger Downhill
   - Cyclocross
   - Anfänger Cross Country
   - Freestyle Einzel Altersklasse
