@@ -19,4 +19,6 @@ competitions:
   - Freestyle Einzel Altersklasse
   - Einbein
   - Radlauf
+  - X-Style
+  - Trials
 ---
