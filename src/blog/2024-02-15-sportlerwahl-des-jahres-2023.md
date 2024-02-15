@@ -10,4 +10,4 @@ Wir freuen und über jede Stimme unter <https://www.rundschau-online.de/region/o
 
 *So funktioniert es: Anzeige auf der ersten Seite akzeptieren - Sportler wählen - Sportlerin wählen - SSV Nümbrecht Einrad wählen - auf der letzten Seite ist im Formular die Angabe einer E-Mail Adresse ausreichend* 
 
-Vielen Dank die Unterstützung![](https://www.rundschau-online.de/region/oberberg/oberberg-wer-wird-mannschaft-sportler-und-sportlerin-des-jahres-2023-6-240361)
+Vielen Dank für die Unterstützung!
