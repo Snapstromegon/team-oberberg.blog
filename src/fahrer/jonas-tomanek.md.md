@@ -1,6 +1,8 @@
 ---
 name: Jonas Tomanek
 startNo: 174
+cite: Das Beste am Einradfahren sind für mich die unendlichen Möglichkeiten
+  und  vielen Disziplinen, insbesondere im Freestyle und Muni.
 birthday: 2007-03-30T08:12:25.589Z
 wm: 1
 top3since2022: 12
