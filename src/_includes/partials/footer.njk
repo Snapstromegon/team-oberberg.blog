@@ -1,6 +1,12 @@
 <footer>
   <div class="content">
     <h2>Unterstützt durch</h2>
-    SPONSOR SPONSOR SPONSOR
+    <div class="sponsor-list">
+      {% for sponsor in settings.sponsors %}
+        <a href="{{sponsor.url}}" title="{{sponsor.name}}">
+         {% image sponsor.logo, sponsor.name%}
+        </a>
+      {% endfor %}
+    </div>
   </div>
 </footer>

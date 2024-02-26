@@ -184,6 +184,18 @@ aside {
 
 footer {
   padding: 2rem 0;
+
+  & .sponsor-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: space-around;
+
+    & img {
+      max-height: 5rem;
+      width: auto;
+    }
+  }
 }
 
 main {

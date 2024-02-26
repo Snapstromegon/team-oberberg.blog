@@ -5,3 +5,7 @@ teaserText: >
   Minnesota, USA nehmen sechs SportlerInnen aus Oberberg teil. Über unsere
   sportlichen Leistungen und Erlebnisse wollen wir Euch in diesem Blog auf dem
   Laufenden halten.
+sponsors:
+  - name: INGENIA
+    logo: /assets/img/uploads/ingenialogo-1-.svg
+    url: http://www.dirk-kaiser.de/index.htm

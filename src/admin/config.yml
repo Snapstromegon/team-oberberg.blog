@@ -21,6 +21,14 @@ collections:
           - { label: "Header Image", name: "headerImage", widget: "image" }
           - { label: "Contact Mail", name: "contactMail", widget: "string" }
           - { label: "Teaser Text", name: "teaserText", widget: "text" }
+          - label: "Sponsors"
+            name: "sponsors"
+            widget: "list"
+            summary: "{{fields.name}}"
+            fields:
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Logo", name: "logo", widget: "image"}
+              - {label: "Link", name: "url", widget: "string", optional: true}
   - name: "blog"
     label: "Blog"
     folder: "src/blog"
