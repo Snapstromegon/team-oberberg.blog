@@ -23,4 +23,5 @@ competitions:
   - Radlauf
   - X-Style
   - Trials
+  - Platform Hochsprung
 ---
