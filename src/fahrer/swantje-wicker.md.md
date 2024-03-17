@@ -1,5 +1,6 @@
 ---
 name: Swantje Wicker
+instagram: swa_ntje
 startNo: 202
 cite: Die Verbindung von faszinierenden Tricks und tänzerischer Leidenschaft,
   das liebe ich am Freestyle-Sport.

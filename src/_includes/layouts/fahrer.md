@@ -23,6 +23,7 @@ layout: layouts/main.njk
   </div>
   {% image image, name %}
 </div>
+  <a href="https://instagram.com/{{instagram}}" class="insta">{% image "assets/img/logos/Instagram_Glyph_Gradient.png", "Instagram Logo", "3rem"%}</a>
 
 {% if cite %}
 

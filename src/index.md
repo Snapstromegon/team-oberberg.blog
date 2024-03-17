@@ -65,5 +65,6 @@ eleventyNavigation:
     </div>
     {% image fahrer.data.image, fahrer.data.name %}
   </a>
+  <a href="https://instagram.com/{{fahrer.data.instagram}}" class="insta">{% image "assets/img/logos/Instagram_Glyph_Gradient.png", "Instagram Logo", "3rem"%}</a>
   {%endfor%}
 </section>

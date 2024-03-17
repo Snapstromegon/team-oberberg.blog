@@ -19,6 +19,9 @@
         activeKey: eleventyNavigation.key or eleventyNavigation.parent,
         activeAnchorClass: "current"
       }) | safe }}
+      {% if settings.teamInstagram %}
+      <a href="https://instagram.com/{{settings.teamInstagram}}" title="Instagram" class="instagram">{% image "assets/img/logos/Instagram_Glyph_Gradient.png", "Instagram Logo", "3rem"%}</a>
+      {% endif %}
     </nav>
   </div>
 </aside>
