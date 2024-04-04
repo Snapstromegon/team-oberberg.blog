@@ -1,11 +1,11 @@
 headerImage: /assets/img/uploads/l1090396-copy-7.jpg
 contactMail: info@team-oberberg.blog
+teamInstagram: ssvnuembrecht_einrad
 teaserText: >
   An der diesjährigen UNICON 21 - Unicycling Worldchampionships 2024 in Bemidji,
   Minnesota, USA nehmen sechs SportlerInnen aus Oberberg teil. Über unsere
   sportlichen Leistungen und Erlebnisse wollen wir Euch in diesem Blog auf dem
   Laufenden halten.
-teamInstagram: ""
 sponsors:
   - name: INGENIA
     logo: /assets/img/uploads/ingenialogo-nb.png
@@ -19,3 +19,6 @@ sponsors:
   - name: Kaufmann
     logo: /assets/img/uploads/kaufmann-logo_4c_schwarz.png
     url: https://klassikrohbau.de/
+  - name: Faulenbach Schmiedetechnik GmbH
+    logo: /assets/img/uploads/logo_faulenbach_vektor_4c.svg
+    url: https://www.faulenbach-gmbh.de/
