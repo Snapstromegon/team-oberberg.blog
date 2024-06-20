@@ -8,7 +8,7 @@ birthday: 2011-06-23T08:23:50.653Z
 wm: 1
 top3since2022: 18
 top10inWM: 0
-image: /assets/img/uploads/blog-team-sira.png
+image: /assets/img/uploads/blog-team-sira2.png
 teams:
   - SSV Nümbrecht
   - RKB Freestyle Team
