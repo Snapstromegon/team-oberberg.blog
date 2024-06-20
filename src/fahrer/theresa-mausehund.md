@@ -8,7 +8,7 @@ birthday: 2002-05-17T07:58:05.269Z
 wm: 2
 top3since2022: 3
 top10inWM: 0
-image: /assets/img/uploads/theresa-blog.png
+image: /assets/img/uploads/blog-team-theresa.png
 teams:
   - SSV Nümbrecht
   - RKB Freestyle Team
