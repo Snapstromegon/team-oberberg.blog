@@ -11,7 +11,7 @@ birthday: 1964-05-04
 wm: 2
 top3since2022: 3
 top10inWM: 0
-image: assets/img/uploads/thomas.png
+image: /assets/img/uploads/blog-team-thomas.png
 teams:
   - TuS Reichshof - All Stars On(e) Wheel
 competitions:
