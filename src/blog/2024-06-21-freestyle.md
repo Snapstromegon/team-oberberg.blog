@@ -1,7 +1,7 @@
 ---
 title: Freestyle
 abstract: Die Disziplin Freestyle umfasst zum einen das Kürfahren, zum anderen X-Style.
-cover: /assets/img/uploads/tz6_6944.jpg
+cover: /assets/img/uploads/20240621_115054.jpg
 ---
 Die Disziplin Freestyle umfasst zum einen das Kürfahren, zum anderen X-Style.
 
