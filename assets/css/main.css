@@ -30,7 +30,7 @@
   display: block;
   top: 0;
   right: 0;
-  z-index: 10;
+  z-index: 1000;
   background: #f00;
   width: 20rem;
   transform-origin: 50% 50%;
@@ -164,10 +164,12 @@ aside {
   background: color-mix(in srgb, var(--color-main-background) 75%, transparent);
   backdrop-filter: blur(0.5rem);
   transform: translateY(-1px);
-  z-index: 1;
+  z-index: 100;
 
   & nav {
     display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
     justify-content: space-between;
     align-items: center;
     & ul {
@@ -196,6 +198,28 @@ aside {
 
         &:hover {
           border-color: var(--color-red);
+        }
+      }
+    }
+
+    & .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+
+      & #sponsor {
+        border-radius: 100vmax;
+        background: var(--color-dark-background);
+        color: var(--color-font-on-dark);
+        padding: .5rem 1rem;
+        box-shadow: 0.15rem 0.15rem 0rem var(--color-red),
+          -0.15rem 0.3rem 0rem var(--color-yellow);
+        transition: box-shadow 0.2s ease-in-out;
+
+        &:hover {
+          box-shadow: -0.3rem 0.3rem 0rem var(--color-red),
+            0.3rem 0.6rem 0rem var(--color-yellow);
+        
         }
       }
     }

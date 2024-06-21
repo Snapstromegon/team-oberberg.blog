@@ -56,7 +56,7 @@ module.exports = function (eleventyConfig) {
         format: "es",
         sourcemap: process.env.NETLIFY !== "true",
       },
-      plugins: [typescript(), commonjs(), resolve(), loadJson()],
+      plugins: [commonjs(), resolve(), loadJson()],
     },
   });
   const targets = browserslistToTargets(
