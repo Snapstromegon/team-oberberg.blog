@@ -8,7 +8,7 @@ birthday: 1995-12-16T09:05:57.619Z
 wm: 3
 top3since2022: 4
 top10inWM: 0
-image: /assets/img/uploads/swantje.png
+image: /assets/img/uploads/blog-team-swantje.png
 teams:
   - SSV Nümbrecht
   - RKB Freestyle Team
