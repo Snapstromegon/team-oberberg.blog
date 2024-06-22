@@ -2,9 +2,7 @@
 title: " Crowdfunding – ­ Viele schaffen mehr"
 abstract: Da wir die alle Kosten für den Flug, die Unterkunft, das Startgeld,
   die Trikots,... selbst tragen müssen, bedanken wir uns vielmals bei unseren
-  Sponsoren und haben unter dem Link
-  https://www.viele-schaffen-mehr.de/projekte/einradwm eine Crowdfunding-Aktion
-  gestartet.
+  Sponsoren und haben eine Crowdfunding-Aktion gestartet.
 cover: /assets/img/uploads/screenshot-2024-06-22-153803.png
 ---
 Wir befinden uns sowohl im Training als auch in der Organisation der Reise in den letzten Zügen der Vorbereitungen für die Weltmeisterschaft!
