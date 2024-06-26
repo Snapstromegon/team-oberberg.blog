@@ -7,24 +7,24 @@ teaserText: >
   sportlichen Leistungen und Erlebnisse wollen wir Euch in diesem Blog auf dem
   Laufenden halten.
 sponsors:
+  - name: GWN
+    logo: /assets/img/uploads/gwn-100-nümbrecht-ohne-hintergrund.png
+    url: https://gwn24.de/
+  - name: Faulenbach Schmiedetechnik GmbH
+    logo: /assets/img/uploads/logo_faulenbach_vektor_4c.svg
+    url: https://www.faulenbach-gmbh.de/
+  - name: Heiner Weiß
+    url: https://heiner-weiss.de/
+    logo: /assets/img/uploads/heiner-weiß-gmbh-logo-nb.png
+  - name: DEVK Michaela Tratz
+    logo: /assets/img/uploads/devk-einrad-wm-3.png
+    url: https://michaela-tratz.devk.de
   - name: INGENIA
     logo: /assets/img/uploads/ingenialogo-nb.png
     url: http://www.dirk-kaiser.de/index.htm
   - name: Tomanek Sicherheitstechnik
     logo: /assets/img/uploads/tomanek-sicherheitstechnik.png
     url: https://team-oberberg.blog/
-  - name: Heiner Weiß
-    url: https://heiner-weiss.de/
-    logo: /assets/img/uploads/heiner-weiß-gmbh-logo-nb.png
   - name: Kaufmann
     logo: /assets/img/uploads/kaufmann-logo_4c_schwarz.png
     url: https://klassikrohbau.de/
-  - name: Faulenbach Schmiedetechnik GmbH
-    logo: /assets/img/uploads/logo_faulenbach_vektor_4c.svg
-    url: https://www.faulenbach-gmbh.de/
-  - name: GWN
-    logo: /assets/img/uploads/gwn-100-nümbrecht-ohne-hintergrund.png
-    url: https://gwn24.de/
-  - name: DEVK Michaela Tratz
-    logo: /assets/img/uploads/devk-einrad-wm-3.png
-    url: https://michaela-tratz.devk.de
