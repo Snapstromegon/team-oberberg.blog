@@ -4,7 +4,7 @@ instagram: swa_ntje
 startNo: 202
 cite: Die Verbindung von faszinierenden Tricks und tänzerischer Leidenschaft,
   das liebe ich am Freestyle-Sport.
-birthday: 16.12.1996
+birthday: 16.12.1995
 wm: 3
 top3since2022: 4
 top10inWM: 0
