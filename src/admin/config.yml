@@ -56,7 +56,7 @@ collections:
       - label: "Date"
         name: "date"
         widget: "datetime"
-        date_format: "DD.MM.YYYY"
+        date_format: "YYYY-MM-DD"
         time_format: false
 
       - label: "Anzeige Datum überschreiben"
@@ -89,7 +89,7 @@ collections:
       - label: "Geburtstag"
         name: "birthday"
         widget: "datetime"
-        date_format: "DD.MM.YYYY"
+        date_format: "YYYY-MM-DD"
         time_format: false
       - { label: "WM#", name: "wm", widget: "number" }
       - label: "Top 3 Plätze im letzten Jahr"
