@@ -93,6 +93,13 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("age", (date) => {
     const now = new Date();
     const age = now.getFullYear() - new Date(date).getFullYear();
+    if (
+      now.getMonth() < new Date(date).getMonth() ||
+      (now.getMonth() === new Date(date).getMonth() &&
+        now.getDate() < new Date(date).getDate())
+    ) {
+      return age - 1;
+    }
     return age;
   });
   eleventyConfig.addFilter("sortByStartNo", (starters) =>
