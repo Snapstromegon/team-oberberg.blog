@@ -2,7 +2,7 @@
 title: Abflug
 date: 2024-07-11
 displayDate: 2023/24
-unpublished: false
+unpublished: true
 cover: /assets/img/uploads/img-20240711-wa0020.jpg
 ---
 Heute Morgen trafen wir uns bereits um 5 Uhr, um mit voller Vorfreude glücklicherweise staufrei zum Frankfurter Flughafen zu fahren. Dort angekommen gaben wir zunächst unsere drei Fahrradkoffer, in denen der Großteil unserer Einräder verstaut ist, am Sperrgepäckschalter ab. Das hat schon eine ganze Weile gedauert, doch zu diesem Zeitpunkt wussten wir noch nicht, was auf uns zukommt… Als wir im Anschluss unsere normalen Koffer abgeben wollten, erhielten nämlich alle Personen, auf die bereits ein zusätzlicher Fahrradkoffer angemeldet war, kein Gepäckband für ihren Freigepäckkoffer, sodass wir uns in die wirklich ewig lange Schlange für „Problemfälle“ anstellen mussten. Dank der zügig verlaufenden Sicherheitskontrolle schafften wir es dennoch pünktlich zum Boarding. Schon am Gate trafen wir viele Bekannte aus anderen Einradvereinen aus ganz Deutschland und konnten uns sogar bereits vor dem Abflug austauschen, da unser Flug etwas Verspätung hatte. 
