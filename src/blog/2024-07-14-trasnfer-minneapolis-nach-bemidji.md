@@ -1,5 +1,5 @@
 ---
-title: "Trasnfer Minneapolis nach Bemidji "
+title: "Transfer Minneapolis nach Bemidji "
 abstract: "Am frühen Nachmittag sind Kim, Theresa und Thomas mit dem Shuttle zum
   Flughafen gefahren um unseren Mietwagen für die nächsten zwei Wochen
   abzuholen. Zurück am Hotel wurden die Koffer in teils in das Auto und teils in
