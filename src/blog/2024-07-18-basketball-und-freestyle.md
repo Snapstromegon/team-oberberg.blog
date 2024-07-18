@@ -1,8 +1,7 @@
 ---
 title: Basketball und Freestyle
-abstract: "och heute fanden dort zunächst die Basketballspiele der Gruppe B
-  statt. Wir schauten gespannt den Spielen zu und feuerten das Team Dead Cats
-  an. "
+abstract: "Heute fanden zunächst die Basketballspiele der Gruppe B statt. Wir
+  schauten gespannt den Spielen zu und feuerten das Team Dead Cats an. "
 cover: /assets/img/uploads/2024-07-17_basketball_thomas-hoeser_0360.jpg
 ---
 Der Tag startete heute wieder für uns in der Freestyle Halle, also an der Bemidji High School. Doch heute fanden dort zunächst die Basketballspiele der Gruppe B statt. Wir schauten gespannt den Spielen zu und feuerten das Team Dead Cats an. 
