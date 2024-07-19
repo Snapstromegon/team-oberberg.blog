@@ -1,5 +1,5 @@
 ---
-title: Trial, Slalom und Gruppenküren
+title: Speed Trial, Slalom und Gruppenküren
 abstract: "Am heutigen Tag hatten wir erneut einen vollen Teeminkalender.
   Bereits gegen 8 Uhr begleiteten Jonas und Thomas Kim für Speed Trial in‘s
   Sanford Center. "
