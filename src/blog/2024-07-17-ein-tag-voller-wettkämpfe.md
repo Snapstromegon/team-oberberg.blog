@@ -3,7 +3,7 @@ title: Ein Tag voller Wettkämpfe
 abstract: Ab 10 Uhr nutzten wir eine freie Trainingszeit in der Freestyle-Halle,
   um unseren Küren auf dem Boden die letzte Sicherheit zu geben.  Gleich danach
   fuhren Kim, Jonas und Thomas zum Palettenhochsprung in eine andere Halle, da
-  nur Rennen und Freestyle auf dem Gelände der Bemidji Highschool stattfand;.
+  nur Rennen und Freestyle auf dem Gelände der Bemidji Highschool stattfand.
 cover: /assets/img/uploads/2024-07-17_freestyle_thomashoeser_0495.jpg
 ---
 Der Tag begann mit einem leckeren Frühstück, denn mittlerweile haben wir für uns eine gute Mischung aus eingekauften Lebensmitteln und dem Angebot des Frühstücksbuffets gefunden. Ab 10 Uhr nutzten wir eine freie Trainingszeit in der Freestyle-Halle, um unseren Küren auf dem Boden die letzte Sicherheit zu geben.
@@ -16,8 +16,8 @@ Im Anschluss fuhr Thomas zurück zum Sanford Center, wo er den Palettenweitsprun
 
 Gegen Nachmittag trafen sich Swantje, Kim und Jonas beim Coasten. Leider hatte der Wind noch nicht nachgelassen, was den Wettkampf deutlich erschwerte.
 
-Ein kleines Highlight am Abend war noch das Radlauf finale von Jonas wo er mit viel Glück den dritten Platz erreichen konnte.
+Ein kleines Highlight am Abend war noch das Radlauffinale von Jonas, wo er mit viel Glück den dritten Platz erreichen konnte.
 
 Zudem ist Sira abends mit ihrer Einzelkür im Junior Expert gestartet. Es war ein unglaublich spannender Wettkampf mit starker Konkurrenz. Letztendlich erreichte Sira den 5 Platz der Damen unter 15 Jahre.
 
-Morgen steht für unser Team kein Wettkampf an, so dass wir die Chance nutzen und bei den Disziplinen der befreundeten Fahrer mitfiebern können.
+Morgen steht für unser Team kein Wettkampf an, sodass wir die Chance nutzen und bei den Disziplinen der befreundeten Fahrer mitfiebern können.
