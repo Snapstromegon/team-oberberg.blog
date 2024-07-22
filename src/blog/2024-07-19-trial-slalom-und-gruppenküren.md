@@ -1,6 +1,6 @@
 ---
 title: Speed Trial, Slalom und Gruppenküren
-abstract: "Am heutigen Tag hatten wir erneut einen vollen Teeminkalender.
+abstract: "Am heutigen Tag hatten wir erneut einen vollen Terminkalender.
   Bereits gegen 8 Uhr begleiteten Jonas und Thomas Kim für Speed Trial in‘s
   Sanford Center. "
 cover: /assets/img/uploads/2024-07-18_stillstand_thomas-hoeser_0001.jpg
