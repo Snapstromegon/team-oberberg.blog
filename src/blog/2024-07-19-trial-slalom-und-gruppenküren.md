@@ -5,9 +5,9 @@ abstract: "Am heutigen Tag hatten wir erneut einen vollen Teeminkalender.
   Sanford Center. "
 cover: /assets/img/uploads/2024-07-18_stillstand_thomas-hoeser_0001.jpg
 ---
-Am heutigen Tag hatten wir erneut einen vollen Teeminkalender. Bereits gegen 8 Uhr begleiteten Jonas und Thomas Kim für Speed Trial in‘s Sanford Center. Kim schaffte es, wie viele andere Teilnehmer leider nicht durch den anspruchsvollen Parcour.
+Am heutigen Tag hatten wir erneut einen vollen Terminkalender. Bereits gegen 8 Uhr begleiteten Jonas und Thomas Kim für Speed Trial in‘s Sanford Center. Kim schaffte es, wie viele andere Teilnehmer, leider nicht durch den anspruchsvollen Parcour.
 
-Anschließend ging es für die drei zur Highschool, bei der Jonas im IUF-Slalom und Kim im Stillstand teilnahmen. Sie konnte trotz zittriger Beime eine neue persönliche Bestzeit erreichen und sicherte sich damit den dritten Platz in der hart umkämpften Altersklasse der 19-29 Jährigen. Ebenfalls reichte es für Bronze im Expert der Damen.
+Anschließend ging es für die drei zur Highschool, bei der Jonas im IUF-Slalom und Kim im Stillstand teilnahmen. Sie konnte trotz zittriger Beine eine neue persönliche Bestzeit erreichen und sicherte sich damit den dritten Platz in der hart umkämpften Altersklasse der 19-29 Jährigen. Ebenfalls reichte es für Bronze im Expert der Damen.
 
 Mittags hieß es dann schnell die Freestyle Sachen im Hotel einpacken und weiter zur Bemidji State University fahren. Dort probten Kim, Theresa und Sira mit den Grafenwäldern zunächst auf der Wiese die Präsentation für die Gruppenkür und besprachen die letzten Details. Danach ging es weiter zur zugewiesenen Trainingszeit in die noch unbekannte Halle für die Gruppenkür Wettkämpfe.
 
