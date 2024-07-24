@@ -14,4 +14,4 @@ Nachmittags ging es dann für Sira und Thomas zum Downhill. Die Strecke war knap
 
 Bis gestern war der letzte Wettkampf gegen 22:00 Uhr zu Ende, so dass mit Fahrt, duschen, und Vorbereitung für den Folgetag wir erst  um Mitternacht schlafen konnten. Heute war der Wettkampftag bereits um 14:00 Uhr zu Ende, so dass wir alle etwas ausruhen konnten.
 
-Morgen findet als letzter Wettkampf Cyclocross statt. Dies ist ein Spaß-Rennen mir Kostümen, skurrilen Hindernissen und einigen Stationen am Rand wir Wasserpistolen o.ä.. Wir sind schon alle daure gespannt was uns da erwartet
+Morgen findet als letzter Wettkampf Cyclocross statt. Dies ist ein Spaß-Rennen mir Kostümen, skurrilen Hindernissen und einigen Stationen am Rand wie Wasserpistolen o.ä..
