@@ -2,7 +2,7 @@
 title: Cyclocross
 abstract: "Heute Morgen mussten wir das letzte Mal für Wettkämpfe früh
   aufstehen, denn Thomas, Theresa, Sira und Jonas nahmen am Cyclocross teil. "
-cover: /assets/img/uploads/whatsapp-image-2024-07-24-at-23.05.59.jpeg
+cover: /assets/img/uploads/whatsapp-image-2024-07-24-at-23.05.59.jpg
 ---
 Heute Morgen mussten wir das letzte Mal für Wettkämpfe früh aufstehen, denn Thomas, Theresa, Sira und Jonas nahmen am Cyclocross teil. 
 
