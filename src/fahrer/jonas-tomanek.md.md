@@ -25,4 +25,8 @@ competitions:
   - X-Style
   - Trials
   - Platform Hochsprung
+medals:
+  gold: 1
+  silver: 1
+  bronze: 2
 ---

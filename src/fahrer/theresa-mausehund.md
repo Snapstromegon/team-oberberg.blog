@@ -23,4 +23,8 @@ competitions:
   - Anfänger Cross Country
   - Cyclocross
   - Freestyle Großgruppe Expert
+medals:
+  gold: 0
+  silver: 0
+  bronze: 1
 ---

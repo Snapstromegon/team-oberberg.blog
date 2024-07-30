@@ -264,7 +264,7 @@ main {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto auto 1fr;
-  grid-template-areas: "name image" "team image" "stats image";
+  grid-template-areas: "medals image" "name image" "team image" "stats image";
   margin-top: 10rem;
   padding: 2rem;
   padding-bottom: 0;
@@ -283,6 +283,31 @@ main {
     font-size: 2rem;
     font-weight: bold;
     z-index: 1;
+  }
+
+  & .medals {
+    grid-area: medals;
+    display: flex;
+    gap: .5rem;
+    align-items: end;
+    margin-top: -1.5rem;
+    margin-bottom: 0rem;
+
+    & .medal {
+      &.medal::before {
+        transform: rotate(180deg);
+        font-size: 1.5rem;
+      }
+      &.medals-gold::before {
+        content: "🥇";
+      }
+      &.medals-silver::before {
+        content: "🥈";
+      }
+      &.medals-bronze::before {
+        content: "🥉";
+      }
+    }
   }
 
   & .team {
@@ -538,7 +563,7 @@ article.blogpost {
   .fahrer {
     grid-template-columns: 1fr;
     grid-template-rows: auto auto auto 1fr;
-    grid-template-areas: "image" "name" "team" "stats";
+    grid-template-areas: "image" "medals" "name" "team" "stats";
 
     &:first-child {
       margin-top: 10rem;
@@ -546,6 +571,12 @@ article.blogpost {
 
     & .name {
       margin-top: 1rem;
+    }
+
+    & .medals {
+      justify-content: center;
+      margin-top: .5rem;
+      margin-bottom: 0;
     }
 
     & img {

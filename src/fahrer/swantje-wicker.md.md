@@ -16,4 +16,8 @@ competitions:
   - Freestyle Einzel Altersklasse
   - X-Style
   - Cyclocross
+medals:
+  gold: 0
+  silver: 0
+  bronze: 0
 ---

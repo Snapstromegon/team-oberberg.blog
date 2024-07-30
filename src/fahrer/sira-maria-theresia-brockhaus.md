@@ -21,4 +21,8 @@ competitions:
   - Freestyle Großgruppe Expert
   - Freestyle Kleingruppe Expert
   - Anfänger Cross Country
+medals:
+  gold: 1
+  silver: 3
+  bronze: 0
 ---

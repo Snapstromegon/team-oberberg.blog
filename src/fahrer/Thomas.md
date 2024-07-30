@@ -23,4 +23,8 @@ competitions:
   - Anfänger Cross Country
   - Trials
   - Cyclocross
+medals:
+  gold: 0
+  silver: 0
+  bronze: 1
 ---

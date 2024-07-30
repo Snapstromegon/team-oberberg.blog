@@ -24,4 +24,8 @@ competitions:
   - Cyclocross
   - Freestyle Paar Altersklasse
   - Freestyle Großgruppe Expert
+medals:
+  gold: 0
+  silver: 0
+  bronze: 2
 ---

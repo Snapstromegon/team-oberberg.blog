@@ -63,6 +63,11 @@ eleventyNavigation:
       <span class="top10 value">{{fahrer.data.top10inWM}}</span>
       {% endif -%}
     </div>
+    <div class="medals">
+      {% for i in range(0, fahrer.data.medals.gold)-%}<span class="medal medals-gold"></span>{%-endfor-%}
+      {% for i in range(0, fahrer.data.medals.silver)-%}<span class="medal medals-silver"></span>{%-endfor-%}
+      {% for i in range(0, fahrer.data.medals.bronze)-%}<span class="medal medals-bronze"></span>{%-endfor-%}
+    </div>
     {% image fahrer.data.image, fahrer.data.name %}
   </a>
   <a href="https://instagram.com/{{fahrer.data.instagram}}" class="insta">{% image "assets/img/logos/Instagram_Glyph_Gradient.png", "Instagram Logo", "3rem"%}</a>
