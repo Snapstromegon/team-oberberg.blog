@@ -23,68 +23,47 @@ Wir schauen nun mit viel Freude und hoher Motivation auf alle kommenden Wettkäm
 
 Vielen Dank, dass ihr unsere Erlebnisse hier verfolgt habt!
 
-
-
 Hier ein Überblick über unsere besten Platzierungen:
-
-
 
 #### **Sira**
 
 7 Starts
 
-**1. X-Style Jr. Expert F**
-
-2. Muni Cross Country Beginner/F0-14
-
-2. Downhill Beginner/F0-14
-
-2. Cyclocross Beginner/Intermediate/F0-14
-
-
+* **1. X-Style Jr. Expert F**
+* 2. Muni Cross Country Beginner/F0-14
+* 2. Downhill Beginner/F0-14
+* 2. Cyclocross Beginner/Intermediate/F0-14
 
 #### Kim
 
 9 Starts
 
-**3. Stillstand Expert F**
-
-3. Stillstand F19-29
-
-
+* **3. Stillstand Expert F**
+* 3. Stillstand F19-29
 
 #### Jonas
 
 13 Starts
 
-**3. 30m Wheel Walk Expert M**
-
-3. Freestyle Einzel M15-18
-
-1. Muni Cross Country Beginner/M15-18
-
-2. Cyclocross Beginner/Intermediate/M15-18
-
-
+* **3. 30m Wheel Walk Expert M**
+* 2. Cyclocross Beginner/Intermediate/M15-18
+* 3. Freestyle Einzel M15-18
+* 3. Muni Cross Country Beginner/M15-18
 
 #### Theresa
 
 5 Starts
 
-3. Cyclocross Beginner/Intermediate/F19-29
-
-
+* 3. Cyclocross Beginner/Intermediate/F19-29
 
 #### Thomas
 
 10 Starts
 
-3. Muni Downhill Beginner/M50+
-
-
+* 3. Muni Downhill Beginner/M50+
 
 #### Swantje
 
 4 Starts
 
-6. Freestyle Einzel F25+
+* 6. Freestyle Einzel F25+
