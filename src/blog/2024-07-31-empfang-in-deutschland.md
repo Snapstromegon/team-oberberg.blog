@@ -23,9 +23,9 @@ Wir schauen nun mit viel Freude und hoher Motivation auf alle kommenden Wettkäm
 
 Vielen Dank, dass ihr unsere Erlebnisse hier verfolgt habt!
 
-Hier ein Überblick über unsere besten Platzierungen:
+## Unsere besten Platzierungen
 
-#### **Sira**
+### Sira
 
 7 Starts
 
@@ -34,14 +34,14 @@ Hier ein Überblick über unsere besten Platzierungen:
 * 2\. Downhill Beginner/F0-14
 * 2\. Cyclocross Beginner/Intermediate/F0-14
 
-#### Kim
+### Kim
 
 9 Starts
 
 * **3\. Stillstand Expert F**
 * 3\. Stillstand F19-29
 
-#### Jonas
+### Jonas
 
 13 Starts
 
@@ -50,19 +50,19 @@ Hier ein Überblick über unsere besten Platzierungen:
 * 3\. Freestyle Einzel M15-18
 * 3\. Muni Cross Country Beginner/M15-18
 
-#### Theresa
+### Theresa
 
 5 Starts
 
 * 3\. Cyclocross Beginner/Intermediate/F19-29
 
-#### Thomas
+### Thomas
 
 10 Starts
 
 * 3\. Muni Downhill Beginner/M50+
 
-#### Swantje
+### Swantje
 
 4 Starts
 
