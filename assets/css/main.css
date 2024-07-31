@@ -61,6 +61,10 @@ h6 {
   font-family: "Architects Daughter", cursive;
 }
 
+li {
+  list-style-position: inside;
+}
+
 img {
   max-width: 100%;
   height: auto;
