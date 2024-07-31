@@ -5,7 +5,7 @@ abstract: Doch als wir um die Ecke in den Eingang blickten, waren wir absolut
   und Fotografen waren viele Freunde und unsere Familien gekommen, um uns mit
   Girlanden, Fahnen, Getränken und Snacks zu empfangen und Glückwünsche
   auszusprechen
-cover: /assets/img/uploads/20240730_162200.jpg
+cover: /assets/img/uploads/31-07-2024einrad-vor.jpeg
 ---
 Am Dienstag trafen wir uns am Nachmittag, um alle Einräder aus den Fahrradkoffern wieder zusammenzubauen. Weiterhin konnten wir nicht glauben, dass die Koffer so unsanft behandelt wurden.
 
