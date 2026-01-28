@@ -1,7 +1,7 @@
 ---
 title: Vorbereitung
-date: 2023-12-29
-displayDate: 2023/24
+date: 2026-01-28
+displayDate: 2025/26
 unpublished: false
 cover: /assets/img/uploads/img_2977.jpg
 ---
