@@ -2,7 +2,7 @@
 name: Kim Höser
 instagram: kimliliem
 startNo: 87
-wm: 4
+wm: 5
 top3since2022: 8
 top10inWM: 4
 image: /assets/img/uploads/blog-team-kim.png
