@@ -4,7 +4,7 @@ instagram: theresa_m1705
 startNo: 1
 cite: Das Gefühl, wenn man zum ersten Mal merkt, wie sich ein neuer
   Trick  anfühlt, ist unbeschreiblich.
-wm: 2
+wm: 3
 top3since2022: 3
 top10inWM: 0
 image: /assets/img/uploads/blog-team-theresa.png
