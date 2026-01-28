@@ -4,7 +4,7 @@ instagram: sira_m2306
 startNo: 487
 cite: Der schönste Moment am Einrad-Fahren ist, wenn man seine Leidenschaft auf
   der Fläche zeigen kann.
-wm: 1
+wm: 2
 top3since2022: 18
 top10inWM: 0
 image: /assets/img/uploads/blog-team-sira3.png
