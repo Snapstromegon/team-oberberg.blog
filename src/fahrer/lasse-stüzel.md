@@ -1,5 +1,5 @@
 ---
-name: Lasse Stüzel
+name: Lasse Stützel
 instagram: insta_placeholder
 startNo: 1
 birthday: 2000-01-01
