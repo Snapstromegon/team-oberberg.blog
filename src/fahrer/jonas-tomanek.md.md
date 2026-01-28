@@ -1,10 +1,9 @@
 ---
 name: Jonas Tomanek
 instagram: jonas.unicycle
-startNo: 174
+startNo: 50
 cite: Das Beste am Einradfahren sind für mich die unendlichen Möglichkeiten
   und  vielen Disziplinen, insbesondere im Freestyle und Muni.
-birthday: 2007-03-30T08:12:25.589Z
 wm: 1
 top3since2022: 12
 top10inWM: 0
@@ -29,4 +28,5 @@ medals:
   gold: 1
   silver: 1
   bronze: 2
+birthday: 2007-03-30T08:12:25.589Z
 ---
