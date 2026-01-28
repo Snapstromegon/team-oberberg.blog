@@ -1,7 +1,7 @@
 ---
 title: Wettkampfende
-date: 2024-07-26
-displayDate: 2023/24
+date: 2026-08-07
+displayDate: "2026"
 unpublished: false
 cover: /assets/img/uploads/img_9726.jpg
 ---
