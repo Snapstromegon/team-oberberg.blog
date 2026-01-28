@@ -11,11 +11,11 @@ Da wir die alle Kosten für den Transport, die Unterkunft, das Startgeld, die Tr
 
 Um die restlichen Kosten für uns so gering wie möglich zu halten, haben wir eine Crowdfunding-Aktion gestartet:
 
-Unterstützen Sie uns, indem Sie sich an der **Crowdfunding-Aktion unter dem Link <https://www.viele-schaffen-mehr.de/projekte/einradwm>** oder der unten angegebenen Bankverbindung b[](https://www.viele-schaffen-mehr.de/projekte/einradwm)eteiligen. Ab einer Spende von 10,- EUR unterstützt uns die Volksbank Oberberg mit weiteren 10,- EUR pro Spender.
+Unterstützen Sie uns, indem Sie sich an der **Crowdfunding-Aktion unter dem Link [NEUER LINK KOMMT NOCH](https://www.viele-schaffen-mehr.de/projekte/einradwm)** oder der unten angegebenen Bankverbindung b[](https://www.viele-schaffen-mehr.de/projekte/einradwm)eteiligen. Ab einer Spende von 10,- EUR unterstützt uns die Volksbank Oberberg mit weiteren 10,- EUR pro Spender.
 
 > Kontoinhaber: VR Payment für Viele schaffen mehr
 >
-> IBAN: DE33660600000000137749
+> IBAN: Xxxxxxxxxxxx
 >
 > BIC: GENODE6KXXX
 >
