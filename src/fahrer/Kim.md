@@ -1,8 +1,7 @@
 ---
 name: Kim Höser
 instagram: kimliliem
-startNo: 167
-birthday: 2001-09-21
+startNo: 87
 wm: 4
 top3since2022: 8
 top10inWM: 4
@@ -28,4 +27,5 @@ medals:
   gold: 0
   silver: 0
   bronze: 2
+birthday: 2001-09-21
 ---
