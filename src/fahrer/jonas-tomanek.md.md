@@ -4,7 +4,7 @@ instagram: jonas.unicycle
 startNo: 50
 cite: Das Beste am Einradfahren sind für mich die unendlichen Möglichkeiten
   und  vielen Disziplinen, insbesondere im Freestyle und Muni.
-wm: 1
+wm: 2
 top3since2022: 12
 top10inWM: 0
 image: /assets/img/uploads/blog-team-jonas.png
