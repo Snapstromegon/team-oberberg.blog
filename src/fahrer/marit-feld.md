@@ -9,7 +9,7 @@ cite: Stürze -mal mehr mal weniger heftig- gehören beim Einradfahren dazu, doc
   unterstützen!
 birthday: 2011-02-21
 wm: 1
-top3since2022: 0
+top3since2022: 4
 top10inWM: 0
 image: /assets/img/uploads/blog-team-placeholder.png
 teams:
