@@ -3,7 +3,7 @@ name: Marit Feld
 instagram: insta_placeholder
 startNo: 389
 cite: Stürze -mal mehr mal weniger heftig- gehören beim Einradfahren dazu, doch
-  irgendwann zahlt sich jeder einzige von ihnen aus. Denn nicht die perfekten
+  irgendwann zahlt sich jeder einzelne von ihnen aus. Denn nicht die perfekten
   Versuche bringen mich weiter, sondern die nach denen ich wieder aufsteige und
   es nochmal versuche. Danke... an alle die mich dabei immer wieder
   unterstützen.
