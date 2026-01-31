@@ -11,4 +11,4 @@ Die Küren, die die Zuschauer präsentiert bekommen, bestehen aus beeindruckende
 
 Beim X-Style zeigen die FahrerInnen ihre schwierigsten Tricks. Hierbei zählen im Gegensatz zu den Küren keine Abstiege und Präsentation. 
 
-Wir gehen insgesamt mit 3 Starts im X-Style sowie 6 Einradküren an den Start und freuen uns, unsere erarbeiteten Choreografien in Minnesota zu zeigen.
+Wir gehen insgesamt mit 3 Starts im X-Style sowie 6 Einradküren an den Start und freuen uns, unsere erarbeiteten Choreografien in Steyr zu zeigen.
