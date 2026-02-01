@@ -11,7 +11,7 @@ birthday: 2011-02-21
 wm: 1
 top3since2022: 4
 top10inWM: 0
-image: /assets/img/uploads/blog-team-placeholder.png
+image: /assets/img/uploads/marit-feld_blog.png
 teams:
   - TuS Reichshof - All Stars On(e) Wheel
   - RKB Freestyle Team
