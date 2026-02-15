@@ -6,7 +6,7 @@ birthday: 1990-08-02
 wm: 1
 top3since2022: 1
 top10inWM: 1
-image: /assets/img/uploads/lalenia-hirte-blog.png
+image: /assets/img/uploads/blog_lalenia_hirte.png
 teams:
   - TuS Reichshof - All Stars On(e) Wheel
 competitions:
