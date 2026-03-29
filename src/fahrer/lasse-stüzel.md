@@ -4,7 +4,7 @@ instagram: insta_placeholder
 startNo: 113
 birthday: 2010-12-28
 wm: 1
-top3since2022: 1
+top3since2022: 4
 top10inWM: 0
 image: /assets/img/uploads/blog_lasse_stützel.png
 teams:
