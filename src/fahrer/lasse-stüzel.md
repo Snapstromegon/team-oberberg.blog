@@ -2,7 +2,7 @@
 name: Lasse Stützel
 instagram: insta_placeholder
 startNo: 113
-birthday: 2000-01-01
+birthday: 2010-12-28
 wm: 1
 top3since2022: 1
 top10inWM: 0
