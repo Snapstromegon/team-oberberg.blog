@@ -40,7 +40,7 @@ eleventyNavigation:
   </article>
 </a>
 
-## Unser Team für die USA
+## Unser Team für Österreich
 
 <section class="fahrer-cards">
   {%for fahrer in collections.fahrer | sortByStartNo%}
