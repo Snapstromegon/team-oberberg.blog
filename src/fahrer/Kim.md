@@ -5,6 +5,7 @@ startNo: 87
 wm: 5
 top3since2022: 8
 top10inWM: 4
+biggestAchievement: Mein Größter Erfolg ist toll.
 image: /assets/img/uploads/blog-team-kim.png
 teams:
   - RKB Freestyle Team

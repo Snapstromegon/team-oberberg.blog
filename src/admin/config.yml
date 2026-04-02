@@ -30,6 +30,13 @@ collections:
               - {label: "Name", name: "name", widget: "string"}
               - {label: "Logo", name: "logo", widget: "image"}
               - {label: "Link", name: "url", widget: "string", optional: true}
+          - label: "Wettkämpfe"
+            name: "competitions"
+            widget: "list"
+            summary: "{{fields.name}}"
+            fields:
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Datum" , name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false }
   - name: "blog"
     label: "Blog"
     folder: "src/blog"
@@ -94,8 +101,10 @@ collections:
       - { label: "WM#", name: "wm", widget: "number" }
       - label: "Top 3 Plätze im letzten Jahr"
         name: "top3since2022"
-        widget: "number"
-      - { label: "Top 10 Plätze in WMs", name: "top10inWM", widget: "number" }
+        widget: "hidden"
+        required: false
+      - { label: "Top 10 Plätze in WMs", name: "top10inWM", widget: "hidden", required: false }
+      - { label: "Mein größter Erfolg", name: "biggestAchievement", widget: "string", required: false }
       - label: "Bild - nur mit transparentem Hintergrund"
         name: "image"
         widget: "image"

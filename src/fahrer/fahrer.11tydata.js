@@ -7,13 +7,14 @@ module.exports = {
         const competitionEvents = competitionEventsMapping[competition];
         return {
           competition,
-          events: competitionEvents
-            .map((event) =>
-              googleCal[`Unicon 21 - ${event.calendar}`].items.filter(
-                (item) => item.summary.trim() == event.event.trim()
-              )
-            )
-            .flat(),
+          events: [],
+          // competitionEvents
+          //   .map((event) =>
+          //     googleCal[`Unicon 21 - ${event.calendar}`].items.filter(
+          //       (item) => item.summary.trim() == event.event.trim()
+          //     )
+          //   )
+          //   .flat(),
         };
       });
       return calEvents;

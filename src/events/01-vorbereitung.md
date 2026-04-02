@@ -2,7 +2,7 @@
 title: Vorbereitung
 date: 2026-01-28
 displayDate: 1.2.2026
-unpublished: false
+unpublished: true
 cover: /assets/img/uploads/img_2977.jpg
 ---
 Zusammen mit dem Team von Büdesheim brauchen wir 22 Einräder. Wobei wir dies schon optimiert haben, da z.B. Kim und Theresa nur ein Trial mitnehmen und sich am Wettkampf damit abwechseln.

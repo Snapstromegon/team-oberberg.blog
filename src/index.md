@@ -56,12 +56,10 @@ eleventyNavigation:
       <span class="age value">{{fahrer.data.birthday | age}}</span>
       <span class="prevWM label"># WM</span>
       <span class="prevWM value">{{fahrer.data.wm}}</span>
-      <span class="top3 label">Top 3 22/23</span>
-      <span class="top3 value">{{fahrer.data.top3since2022}}</span>
-      {%- if fahrer.data.top10inWM > 0 %}
-      <span class="top10 label">Top 10 WM</span>
-      <span class="top10 value">{{fahrer.data.top10inWM}}</span>
-      {% endif -%}
+      {%- if fahrer.data.biggestAchievement -%}
+      <span class="biggestAchievement label">Mein größter Erfolg</span>
+      <span class="biggestAchievement value">{{fahrer.data.biggestAchievement}}</span>
+      {%- endif -%}
     </div>
     <div class="medals">
       {% for i in range(0, fahrer.data.medals.gold)-%}<span class="medal medals-gold"></span>{%-endfor-%}

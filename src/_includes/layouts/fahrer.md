@@ -14,12 +14,10 @@ layout: layouts/main.njk
     <span class="age value">{{birthday | age}}</span>
     <span class="prevWM label"># WM</span>
     <span class="prevWM value">{{wm}}</span>
-    <span class="top3 label">Top 3 22/23</span>
-    <span class="top3 value">{{top3since2022}}</span>
-    {%- if top10inWM > 0 %}
-    <span class="top10 label">Top 10 WM</span>
-    <span class="top10 value">{{top10inWM}}</span>
-    {% endif -%}
+    {%- if biggestAchievement -%}
+    <span class="biggestAchievement label">Mein größter Erfolg</span>
+    <span class="biggestAchievement value">{{biggestAchievement}}</span>
+    {%- endif -%}
   </div>
   {% image image, name %}
 </div>

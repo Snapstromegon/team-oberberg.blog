@@ -34,6 +34,7 @@ const loadCalendar = async (calendarId) => {
 };
 
 module.exports = async function () {
+  return {};
   return Object.fromEntries(
     (await Promise.all(CALENDAR_IDS.map(loadCalendar))).map((cal) => [
       cal.summary,
