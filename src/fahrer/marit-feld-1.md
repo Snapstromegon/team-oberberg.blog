@@ -11,6 +11,7 @@ birthday: 2011-02-21
 wm: 1
 top3since2022: 4
 top10inWM: 0
+biggestAchievement: 3. Platz U15 Finale weiblich Hochsprung, Deutsche Meisterschaft 2025
 image: /assets/img/uploads/marit-feld_blog.png
 teams:
   - TuS Reichshof - All Stars On(e) Wheel
