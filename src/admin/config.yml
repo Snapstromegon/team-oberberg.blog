@@ -36,6 +36,7 @@ collections:
             summary: "{{fields.name}}"
             fields:
               - {label: "Name", name: "name", widget: "string"}
+              - {label: "Kategorie", name: "category", widget: "string"}
               - {label: "Datum" , name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false }
   - name: "blog"
     label: "Blog"
@@ -124,31 +125,43 @@ collections:
         widget: select
         multiple: true
         options:
-          - Hochsprung
-          - Weitsprung
-          - Platform Hochsprung
-          - Platform Weitsprung
-          - Speed Trials
-          - Trials
+          - 50m Einbein
+          - 100m
+          - 400m
+          - 800m
+          - 10K
+          - 4x100m Staffel
           - Coasting
-          - Stillstand
-          - Uphill
-          - Anfänger Downhill
-          - Anfänger Cross Country
-          - Fortgeschrittene Downhill
-          - Elite Downhill
+          - Convention Contest (Individual / Pair U15)
+          - Convention Contest (Individual 15+)
+          - Convention contest (Pairs 15+)
+          - Criterium
+          - Cross Country (Beginner)
+          - Cross Country (Expert)
           - Cyclocross
+          - Downhill Beginner
+          - Downhill Expert
+          - Flat
+          - Flatland
+          - Flatland (Expert)
+          - Flatland (Junior)
+          - Freestyle
+          - Groups
           - IUF Slalom
-          - Einbein
-          - Radlauf
-          - Freestyle Einzel Altersklasse
-          - Freestyle Einzel Juniorexpert
-          - Freestyle Einzel Expert
-          - Freestyle Paar Altersklasse
-          - Freestyle Paar Juniorexpert
-          - Freestyle Paar Expert
-          - Freestyle Großgruppe Expert
-          - Freestyle Kleingruppe Expert
+          - Individual Expert
+          - Individual Junior Expert
+          - Jumps on Platform
+          - Jumps on Track
+          - Marathon (42k)
+          - Muni
+          - Pairs Junior Expert / Expert
+          - Speed Trial
+          - Stillstand
+          - Street
+          - Trial
+          - Uphill Beginner
+          - Uphill Expert
+          - WW
           - X-Style
 
 local_backend: true
