@@ -15,13 +15,13 @@ teams:
   - TuS Reichshof - All Stars On(e) Wheel
 competitions:
   - IUF Slalom
-  - Hochsprung
-  - Weitsprung
-  - Platform Weitsprung
-  - Platform Hochsprung
-  - Anfänger Cross Country
-  - Trials
   - Cyclocross
+  - 100m
+  - Cross Country (Beginner)
+  - Jumps on Platform
+  - Jumps on Track
+  - Trial
+  - Downhill Beginner
 medals:
   gold: 0
   silver: 0
