@@ -4,13 +4,13 @@ module.exports = {
       const competitionsByDay = {};
 
       for (const competition of data.settings.competitions.filter((c) =>
-        data.competitions.includes(c.name),
+        data.competitions.includes(c.category),
       )) {
         const day = competition.date;
         if (!competitionsByDay[day]) {
           competitionsByDay[day] = new Set();
         }
-        competitionsByDay[day].add(competition.name);
+        competitionsByDay[day].add(competition);
       }
 
       return [...Object.entries(competitionsByDay)]

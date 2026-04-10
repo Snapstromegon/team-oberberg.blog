@@ -160,10 +160,10 @@ competitions:
     { date: 2026-08-03T12:00:00.000Z, name: "800m Finale", category: "800m" },
     {
       date: 2026-08-03T12:00:00.000Z,
-      name: "WW Qualifikation",
-      category: "WW",
+      name: "Wheel Walk Qualifikation",
+      category: "Wheel Walk",
     },
-    { date: 2026-08-03T12:00:00.000Z, name: "WW Finale", category: "WW" },
+    { date: 2026-08-03T12:00:00.000Z, name: "Wheel Walk Finale", category: "Wheel Walk" },
     {
       date: 2026-08-04T12:00:00.000Z,
       name: "Convention Contest (Individual 15+)",

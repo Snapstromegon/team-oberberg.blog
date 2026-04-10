@@ -37,7 +37,7 @@ layout: layouts/main.njk
     <p class="date">{{day.day | niceDate}}</p>
     <ul>
   {%-for competition in day.competitions-%}
-      <li>{{competition}}</li>
+      <li>{{competition.name}}</li>
   {%-endfor-%}
     </ul>
   </li>
