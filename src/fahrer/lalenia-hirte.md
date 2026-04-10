@@ -15,10 +15,8 @@ image: /assets/img/uploads/blog_lalenia_hirte.png
 teams:
   - TuS Reichshof - All Stars On(e) Wheel
 competitions:
-  - Trials
-  - Hochsprung
-  - Platform Weitsprung
-  - Platform Hochsprung
-  - Weitsprung
-  - Speed Trials
+  - Jumps on Platform
+  - Speed Trial
+  - Jumps on Track
+  - Trial
 ---
