@@ -17,11 +17,9 @@ teams:
   - TuS Reichshof - All Stars On(e) Wheel
   - RKB Freestyle Team
 competitions:
-  - Hochsprung
-  - Weitsprung
-  - Platform Hochsprung
-  - Platform Weitsprung
-  - Trials
-  - Anfänger Downhill
-  - Anfänger Cross Country
+  - Cross Country (Beginner)
+  - Downhill Beginner
+  - Jumps on Platform
+  - Jumps on Track
+  - Trial
 ---
