@@ -10,241 +10,175 @@ sponsors:
   - name: Papiermühle
     logo: /assets/img/uploads/papiermuehle-no-bg.png
     url: https://homburger-papiermuehle.de/
+  - name: DEVK Michaela Tratz
+    logo: /assets/img/uploads/devk-einrad-wm-3.png
+    url: https://beratung.devk.de/vtp/wiehl/michaela-tratz
+  - name: Tomanek
+    logo: /assets/img/uploads/tomanek-sicherheitstechnik.png
+    url: https://team-oberberg.blog/
 competitions:
-  [
-    {
-      date: 2026-07-26T12:00:00.000Z,
-      name: "Trial Qualifikation",
-      category: "Trial",
-    },
-    {
-      date: 2026-07-26T12:00:00.000Z,
-      name: "Criterium",
-      category: "Criterium",
-    },
-    { date: 2026-07-27T12:00:00.000Z, name: "Muni Practise", category: "Muni" },
-    {
-      date: 2026-07-27T12:00:00.000Z,
-      name: "Jumps on Track Qualifikation",
-      category: "Jumps on Track",
-    },
-    {
-      date: 2026-07-27T12:00:00.000Z,
-      name: "Trial Finale (Female / Male)",
-      category: "Trial",
-    },
-    {
-      date: 2026-07-28T12:00:00.000Z,
-      name: "Jumps on Track Finale",
-      category: "Jumps on Track",
-    },
-    { date: 2026-07-28T12:00:00.000Z, name: "10K", category: "10K" },
-    {
-      date: 2026-07-29T12:00:00.000Z,
-      name: "Cross Country (Expert)",
-      category: "Cross Country (Expert)",
-    },
-    {
-      date: 2026-07-29T12:00:00.000Z,
-      name: "Cross Country (Beginner)",
-      category: "Cross Country (Beginner)",
-    },
-    {
-      date: 2026-07-29T12:00:00.000Z,
-      name: "Speed Trial Qualifikation",
-      category: "Speed Trial",
-    },
-    {
-      date: 2026-07-30T12:00:00.000Z,
-      name: "X-Style Qualifikation",
-      category: "X-Style",
-    },
-    {
-      date: 2026-07-30T12:00:00.000Z,
-      name: "Stillstand Qualifikation",
-      category: "Stillstand",
-    },
-    {
-      date: 2026-07-30T12:00:00.000Z,
-      name: "Jumps on Platform Qualifikation",
-      category: "Jumps on Platform",
-    },
-    {
-      date: 2026-07-30T12:00:00.000Z,
-      name: "Speed Trial Finale",
-      category: "Speed Trial",
-    },
-    {
-      date: 2026-07-31T12:00:00.000Z,
-      name: "X-Style Finale",
-      category: "X-Style",
-    },
-    {
-      date: 2026-07-31T12:00:00.000Z,
-      name: "Jumps on Platform Finale",
-      category: "Jumps on Platform",
-    },
-    {
-      date: 2026-07-31T12:00:00.000Z,
-      name: "Uphill Beginner",
-      category: "Uphill Beginner",
-    },
-    {
-      date: 2026-07-31T12:00:00.000Z,
-      name: "Uphill Expert",
-      category: "Uphill Expert",
-    },
-    {
-      date: 2026-07-31T12:00:00.000Z,
-      name: "Downhill Beginner",
-      category: "Downhill Beginner",
-    },
-    { date: 2026-08-01T12:00:00.000Z, name: "Practise", category: "Freestyle" },
-    {
-      date: 2026-08-01T12:00:00.000Z,
-      name: "Flat Qualifikation",
-      category: "Flat",
-    },
-    {
-      date: 2026-08-01T12:00:00.000Z,
-      name: "Downhill Expert Qualifikation",
-      category: "Downhill Expert",
-    },
-    {
-      date: 2026-08-01T12:00:00.000Z,
-      name: "Downhill Expert Finale",
-      category: "Downhill Expert",
-    },
-    { date: 2026-08-02T12:00:00.000Z, name: "Practise", category: "Freestyle" },
-    {
-      date: 2026-08-02T12:00:00.000Z,
-      name: "Flatland Lower Rounds",
-      category: "Flatland",
-    },
-    {
-      date: 2026-08-02T12:00:00.000Z,
-      name: "IUF Slalom",
-      category: "IUF Slalom",
-    },
-    { date: 2026-08-02T12:00:00.000Z, name: "Coasting", category: "Coasting" },
-    {
-      date: 2026-08-02T12:00:00.000Z,
-      name: "Marathon (42k)",
-      category: "Marathon (42k)",
-    },
-    {
-      date: 2026-08-03T12:00:00.000Z,
-      name: "Convention Contest (Individual / Pair U15)",
-      category: "Convention Contest (Individual / Pair U15)",
-    },
-    {
-      date: 2026-08-03T12:00:00.000Z,
-      name: "Individual Junior Expert",
-      category: "Individual Junior Expert",
-    },
-    {
-      date: 2026-08-03T12:00:00.000Z,
-      name: "Flatland Finale (Junior)",
-      category: "Flatland (Junior)",
-    },
-    {
-      date: 2026-08-03T12:00:00.000Z,
-      name: "Flatland Finale (Expert)",
-      category: "Flatland (Expert)",
-    },
-    {
-      date: 2026-08-03T12:00:00.000Z,
-      name: "800m Qualifikation",
-      category: "800m",
-    },
-    { date: 2026-08-03T12:00:00.000Z, name: "800m Finale", category: "800m" },
-    {
-      date: 2026-08-03T12:00:00.000Z,
-      name: "Wheel Walk Qualifikation",
-      category: "Wheel Walk",
-    },
-    { date: 2026-08-03T12:00:00.000Z, name: "Wheel Walk Finale", category: "Wheel Walk" },
-    {
-      date: 2026-08-04T12:00:00.000Z,
-      name: "Convention Contest (Individual 15+)",
-      category: "Convention Contest (Individual 15+)",
-    },
-    {
-      date: 2026-08-04T12:00:00.000Z,
-      name: "Individual Expert",
-      category: "Individual Expert",
-    },
-    {
-      date: 2026-08-04T12:00:00.000Z,
-      name: "50m Einbein Qualifikation",
-      category: "50m Einbein",
-    },
-    {
-      date: 2026-08-04T12:00:00.000Z,
-      name: "50m Einbein Finale",
-      category: "50m Einbein",
-    },
-    {
-      date: 2026-08-04T12:00:00.000Z,
-      name: "100m Qualifikation",
-      category: "100m",
-    },
-    { date: 2026-08-04T12:00:00.000Z, name: "100m Finale", category: "100m" },
-    {
-      date: 2026-08-05T12:00:00.000Z,
-      name: "Groups Practise",
-      category: "Groups",
-    },
-    {
-      date: 2026-08-05T12:00:00.000Z,
-      name: "Convention contest (Pairs 15+)",
-      category: "Convention contest (Pairs 15+)",
-    },
-    {
-      date: 2026-08-05T12:00:00.000Z,
-      name: "Pairs Junior Expert / Expert",
-      category: "Pairs Junior Expert / Expert",
-    },
-    {
-      date: 2026-08-05T12:00:00.000Z,
-      name: "400m Qualifikation",
-      category: "400m",
-    },
-    { date: 2026-08-05T12:00:00.000Z, name: "400m Finale", category: "400m" },
-    {
-      date: 2026-08-05T12:00:00.000Z,
-      name: "4x100m Staffel Qualifikation",
-      category: "4x100m Staffel",
-    },
-    {
-      date: 2026-08-05T12:00:00.000Z,
-      name: "4x100m Staffel Finale",
-      category: "4x100m Staffel",
-    },
-    {
-      date: 2026-08-06T12:00:00.000Z,
-      name: "Groups Finale",
-      category: "Groups",
-    },
-    { date: 2026-08-06T12:00:00.000Z, name: "Street", category: "Street" },
-    {
-      date: 2026-08-06T12:00:00.000Z,
-      name: "IUF Slalom Finale",
-      category: "IUF Slalom",
-    },
-    {
-      date: 2026-08-07T12:00:00.000Z,
-      name: "Junior Street Finale",
-      category: "Street",
-    },
-    {
-      date: 2026-08-07T12:00:00.000Z,
-      name: "Expert Street Finale",
-      category: "Street",
-    },
-    {
-      date: 2026-08-07T12:00:00.000Z,
-      name: "Cyclocross",
-      category: "Cyclocross",
-    },
-  ]
+  - date: 2026-07-26T12:00:00.000Z
+    name: Trial Qualifikation
+    category: Trial
+  - date: 2026-07-26T12:00:00.000Z
+    name: Criterium
+    category: Criterium
+  - date: 2026-07-27T12:00:00.000Z
+    name: Muni Practise
+    category: Muni
+  - date: 2026-07-27T12:00:00.000Z
+    name: Jumps on Track Qualifikation
+    category: Jumps on Track
+  - date: 2026-07-27T12:00:00.000Z
+    name: Trial Finale (Female / Male)
+    category: Trial
+  - date: 2026-07-28T12:00:00.000Z
+    name: Jumps on Track Finale
+    category: Jumps on Track
+  - date: 2026-07-28T12:00:00.000Z
+    name: 10K
+    category: 10K
+  - date: 2026-07-29T12:00:00.000Z
+    name: Cross Country (Expert)
+    category: Cross Country (Expert)
+  - date: 2026-07-29T12:00:00.000Z
+    name: Cross Country (Beginner)
+    category: Cross Country (Beginner)
+  - date: 2026-07-29T12:00:00.000Z
+    name: Speed Trial Qualifikation
+    category: Speed Trial
+  - date: 2026-07-30T12:00:00.000Z
+    name: X-Style Qualifikation
+    category: X-Style
+  - date: 2026-07-30T12:00:00.000Z
+    name: Stillstand Qualifikation
+    category: Stillstand
+  - date: 2026-07-30T12:00:00.000Z
+    name: Jumps on Platform Qualifikation
+    category: Jumps on Platform
+  - date: 2026-07-30T12:00:00.000Z
+    name: Speed Trial Finale
+    category: Speed Trial
+  - date: 2026-07-31T12:00:00.000Z
+    name: X-Style Finale
+    category: X-Style
+  - date: 2026-07-31T12:00:00.000Z
+    name: Jumps on Platform Finale
+    category: Jumps on Platform
+  - date: 2026-07-31T12:00:00.000Z
+    name: Uphill Beginner
+    category: Uphill Beginner
+  - date: 2026-07-31T12:00:00.000Z
+    name: Uphill Expert
+    category: Uphill Expert
+  - date: 2026-07-31T12:00:00.000Z
+    name: Downhill Beginner
+    category: Downhill Beginner
+  - date: 2026-08-01T12:00:00.000Z
+    name: Practise
+    category: Freestyle
+  - date: 2026-08-01T12:00:00.000Z
+    name: Flat Qualifikation
+    category: Flat
+  - date: 2026-08-01T12:00:00.000Z
+    name: Downhill Expert Qualifikation
+    category: Downhill Expert
+  - date: 2026-08-01T12:00:00.000Z
+    name: Downhill Expert Finale
+    category: Downhill Expert
+  - date: 2026-08-02T12:00:00.000Z
+    name: Practise
+    category: Freestyle
+  - date: 2026-08-02T12:00:00.000Z
+    name: Flatland Lower Rounds
+    category: Flatland
+  - date: 2026-08-02T12:00:00.000Z
+    name: IUF Slalom
+    category: IUF Slalom
+  - date: 2026-08-02T12:00:00.000Z
+    name: Coasting
+    category: Coasting
+  - date: 2026-08-02T12:00:00.000Z
+    name: Marathon (42k)
+    category: Marathon (42k)
+  - date: 2026-08-03T12:00:00.000Z
+    name: Convention Contest (Individual / Pair U15)
+    category: Convention Contest (Individual / Pair U15)
+  - date: 2026-08-03T12:00:00.000Z
+    name: Individual Junior Expert
+    category: Individual Junior Expert
+  - date: 2026-08-03T12:00:00.000Z
+    name: Flatland Finale (Junior)
+    category: Flatland (Junior)
+  - date: 2026-08-03T12:00:00.000Z
+    name: Flatland Finale (Expert)
+    category: Flatland (Expert)
+  - date: 2026-08-03T12:00:00.000Z
+    name: 800m Qualifikation
+    category: 800m
+  - date: 2026-08-03T12:00:00.000Z
+    name: 800m Finale
+    category: 800m
+  - date: 2026-08-03T12:00:00.000Z
+    name: Wheel Walk Qualifikation
+    category: Wheel Walk
+  - date: 2026-08-03T12:00:00.000Z
+    name: Wheel Walk Finale
+    category: Wheel Walk
+  - date: 2026-08-04T12:00:00.000Z
+    name: Convention Contest (Individual 15+)
+    category: Convention Contest (Individual 15+)
+  - date: 2026-08-04T12:00:00.000Z
+    name: Individual Expert
+    category: Individual Expert
+  - date: 2026-08-04T12:00:00.000Z
+    name: 50m Einbein Qualifikation
+    category: 50m Einbein
+  - date: 2026-08-04T12:00:00.000Z
+    name: 50m Einbein Finale
+    category: 50m Einbein
+  - date: 2026-08-04T12:00:00.000Z
+    name: 100m Qualifikation
+    category: 100m
+  - date: 2026-08-04T12:00:00.000Z
+    name: 100m Finale
+    category: 100m
+  - date: 2026-08-05T12:00:00.000Z
+    name: Groups Practise
+    category: Groups
+  - date: 2026-08-05T12:00:00.000Z
+    name: Convention contest (Pairs 15+)
+    category: Convention contest (Pairs 15+)
+  - date: 2026-08-05T12:00:00.000Z
+    name: Pairs Junior Expert / Expert
+    category: Pairs Junior Expert / Expert
+  - date: 2026-08-05T12:00:00.000Z
+    name: 400m Qualifikation
+    category: 400m
+  - date: 2026-08-05T12:00:00.000Z
+    name: 400m Finale
+    category: 400m
+  - date: 2026-08-05T12:00:00.000Z
+    name: 4x100m Staffel Qualifikation
+    category: 4x100m Staffel
+  - date: 2026-08-05T12:00:00.000Z
+    name: 4x100m Staffel Finale
+    category: 4x100m Staffel
+  - date: 2026-08-06T12:00:00.000Z
+    name: Groups Finale
+    category: Groups
+  - date: 2026-08-06T12:00:00.000Z
+    name: Street
+    category: Street
+  - date: 2026-08-06T12:00:00.000Z
+    name: IUF Slalom Finale
+    category: IUF Slalom
+  - date: 2026-08-07T12:00:00.000Z
+    name: Junior Street Finale
+    category: Street
+  - date: 2026-08-07T12:00:00.000Z
+    name: Expert Street Finale
+    category: Street
+  - date: 2026-08-07T12:00:00.000Z
+    name: Cyclocross
+    category: Cyclocross
