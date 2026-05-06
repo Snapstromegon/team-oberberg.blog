@@ -5,4 +5,4 @@ eleventyNavigation:
   order: 4
 ---
 Falls Sie uns unterstützen wollen oder Fragen für uns haben, erreichen Sie uns unter:
-[{{settings.contactMail}}](mailto:{{settings.contactMail}})
+thomas@hoeser.info
