@@ -2,10 +2,8 @@
 name: Lalenia Maiwald
 instagram: lalenia.unicycle
 startNo: 584
-cite: Der Einradsport ist für mich mehr als nur ein Hobby – er ist ein Teil
-  meines Lebens. Ich durfte miterleben, wie dieser Sport immer professioneller
-  und größer wurde und bin selbst mit ihm gewachsen. Ein Teil dieser
-  einzigartigen Einrad-Community zu sein, macht mich stolz und dankbar.
+cite: Herausforderung, Leidenschaft und Zusammenhalt machen den Einradsport für
+  mich zu etwas ganz Besonderem!
 birthday: 1990-08-02
 wm: 8
 top3since2022: 1
