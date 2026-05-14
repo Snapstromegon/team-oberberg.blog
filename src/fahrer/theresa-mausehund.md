@@ -8,6 +8,7 @@ birthday: 2002-05-17T07:58:05.269Z
 wm: 3
 top3since2022: 3
 top10inWM: 4
+biggestAchievement: 4. Platz Großgruppe (WM 2024)
 image: /assets/img/uploads/blog-team-theresa.png
 teams:
   - SSV Nümbrecht
