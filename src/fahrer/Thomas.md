@@ -10,6 +10,7 @@ cite: Als ich mit 52 Jahren angefangen hatte, wollte ich einfach nur geradeaus
 wm: 3
 top3since2022: 3
 top10inWM: 0
+biggestAchievement: Bronze Einrad-WM Downhill Beginner 50+
 image: /assets/img/uploads/blog-team-thomas.png
 teams:
   - TuS Reichshof - All Stars On(e) Wheel
