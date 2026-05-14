@@ -15,13 +15,11 @@ teams:
   - TuS Reichshof - All Stars On(e) Wheel
   - SSF Bonn
 competitions:
-  - Weitsprung
   - Coasting
-  - Einbein
   - IUF Slalom
   - X-Style
-  - Anfänger Cross Country
-  - Cyclocross
+  - Cross Country (Beginner)
+  - Uphill Beginner
 medals:
   gold: 0
   silver: 0
