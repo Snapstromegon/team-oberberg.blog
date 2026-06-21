@@ -14,7 +14,6 @@ top10inWM: 0
 biggestAchievement: 3. Platz U15 Finale weiblich Hochsprung, Deutsche Meisterschaft 2025
 image: /assets/img/uploads/marit-feld_blog.png
 teams:
-  - TuS Reichshof - All Stars On(e) Wheel
   - RKB Freestyle Team
 competitions:
   - Cross Country (Beginner)
@@ -22,4 +21,5 @@ competitions:
   - Jumps on Platform
   - Jumps on Track
   - Trial
+  - IUF Slalom
 ---
