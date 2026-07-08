@@ -7,6 +7,9 @@ teaserText: >
   sportlichen Leistungen und Erlebnisse wollen wir Euch in diesem Blog auf dem
   Laufenden halten.
 sponsors:
+  - name: TuS Reichshof
+    logo: /assets/img/uploads/tus-reichshof-cropped-tus-2.png
+    url: https://tus-reichshof.de/
   - name: GWN
     logo: /assets/img/uploads/gwn-100-nümbrecht-ohne-hintergrund.png
     url: https://gwn24.de/
