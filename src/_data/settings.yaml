@@ -7,12 +7,9 @@ teaserText: >
   sportlichen Leistungen und Erlebnisse wollen wir Euch in diesem Blog auf dem
   Laufenden halten.
 sponsors:
-  - name: Papiermühle
-    logo: /assets/img/uploads/papiermuehle-no-bg.png
-    url: https://homburger-papiermuehle.de/
-  - name: DEVK Michaela Tratz
-    logo: /assets/img/uploads/devk-einrad-wm-2026-transparent.png
-    url: https://beratung.devk.de/vtp/wiehl/michaela-tratz
+  - name: GWN
+    logo: /assets/img/uploads/gwn-100-nümbrecht-ohne-hintergrund.png
+    url: https://gwn24.de/
   - name: Tomanek Sicherheitstechnik
     logo: /assets/img/uploads/tomanek-sicherheitstechnik.png
     url: https://team-oberberg.blog/
@@ -28,9 +25,12 @@ sponsors:
   - name: Sparkasse Gummersbach
     logo: /assets/img/uploads/s_logo_gm_4c_rot.png
     url: https://www.sparkasse-gm.de/
-  - name: GWN
-    logo: /assets/img/uploads/gwn-100-nümbrecht-ohne-hintergrund.png
-    url: https://gwn24.de/
+  - name: DEVK Michaela Tratz
+    logo: /assets/img/uploads/devk-einrad-wm-2026-transparent.png
+    url: https://beratung.devk.de/vtp/wiehl/michaela-tratz
+  - name: Papiermühle
+    logo: /assets/img/uploads/papiermuehle-no-bg.png
+    url: https://homburger-papiermuehle.de/
 competitions:
   - date: 2026-07-26T12:00:00.000Z
     name: Trial Qualifikation
