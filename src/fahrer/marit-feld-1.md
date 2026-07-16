@@ -21,5 +21,4 @@ competitions:
   - Jumps on Platform
   - Jumps on Track
   - Trial
-  - IUF Slalom
 ---
