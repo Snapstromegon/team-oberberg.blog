@@ -15,6 +15,7 @@ biggestAchievement: 3. Platz U15 Finale weiblich Hochsprung, Deutsche Meistersch
 image: /assets/img/uploads/marit-feld_blog.png
 teams:
   - RKB Freestyle Team
+  - TuS Reichshof - All Stars On(e) Wheel
 competitions:
   - Cross Country (Beginner)
   - Downhill Beginner
