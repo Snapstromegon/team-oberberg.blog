@@ -13,4 +13,4 @@ An der Stadthalle angekommen, wartete ein besonderes Highlight: Erstmals gab es 
 
 Nach mehreren Ansprachen, traditioneller österreichischer Livemusik und einem beeindruckenden Vertikaltuch-Showact wurde die Unicon 22 schließlich mit einem gemeinsamen Countdown offiziell eröffnet.
 
-Bereits morgen beginnen die Wettkämpfe mit den Trials-Qualifikationen. Für unser Team gehen Kim, Jonas, Thomas, Marit und Lalenia an den Start. Sira unterstützt die den Wettkampf als Volunteer. Wir sind gespannt, hochmotiviert und freuen uns sehr.
+Bereits morgen beginnen die Wettkämpfe mit den Trials-Qualifikationen. Für unser Team gehen Kim, Jonas, Thomas, Marit und Lalenia an den Start. Sira unterstützt den Wettkampf als Volunteer. Wir sind gespannt, hochmotiviert und freuen uns sehr.
