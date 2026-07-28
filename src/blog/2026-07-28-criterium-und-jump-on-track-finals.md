@@ -10,7 +10,7 @@ Sira verbrachte den Tag derweil in der Halle, um sich weiter auf die kommenden F
 
 Am späten Nachmittag und Abend standen schließlich die Jump on Track Finals auf dem Programm, für die sich jeweils die acht besten Frauen und Männer aus den Vorrunden qualifizierten.
 
-Für unser Team konnten sich Kim im Weitsprung sowie Lalenia im Hoch- und Weitsprung qualifizi eren. Lalenia hatte ging auf Quali-Platz acht im Hochsprungfinale an den Start und beendete den Wettkampf auf Rang sieben.
+Für unser Team konnten sich Kim im Weitsprung sowie Lalenia im Hoch- und Weitsprung qualifizi eren. Lalenia ging auf Quali-Platz acht im Hochsprungfinale an den Start und beendete den Wettkampf auf Rang sieben.
 
 Die Weitsprung-Finals waren in diesem Jahr besonders spannend. Lalenia konnte ihre Qualifikationsweite noch einmal um 10 cm steigern und belegte am Ende Platz sechs. Kim übertraf ihre Qualifikationsweite sogar um 20 cm und erreichte mit einer Weite von 2,10 m den vierten Platz – nur 5 cm hinter dem dritten Platz.
 
