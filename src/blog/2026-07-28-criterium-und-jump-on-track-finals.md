@@ -1,6 +1,6 @@
 ---
-title: Criterium und Jump on Track Finals
-abstract: Heute standen das Criterium Race, Freestyle Training und die Jump on
+title: Criterium und Jumps on Track Finals
+abstract: Heute standen das Criterium Race, Freestyle Training und die Jumps on
   Track Finals für uns auf dem Programm.
 cover: /assets/img/uploads/1000045737.jpg
 ---
@@ -8,7 +8,7 @@ Der heutige Tag begann für Jonas bereits früh mit dem Criterium Race. Dabei gi
 
 Sira verbrachte den Tag derweil in der Halle, um sich weiter auf die kommenden Freestyle-Wettkämpfe vorzubereiten.
 
-Am späten Nachmittag und Abend standen schließlich die Jump on Track Finals auf dem Programm, für die sich jeweils die acht besten Frauen und Männer aus den Vorrunden qualifizierten.
+Am späten Nachmittag und Abend standen schließlich die Jumps on Track Finals auf dem Programm, für die sich jeweils die acht besten Frauen und Männer aus den Vorrunden qualifizierten.
 
 Für unser Team konnten sich Kim im Weitsprung sowie Lalenia im Hoch- und Weitsprung qualifizi eren. Lalenia ging auf Quali-Platz acht im Hochsprungfinale an den Start und beendete den Wettkampf auf Rang sieben.
 
