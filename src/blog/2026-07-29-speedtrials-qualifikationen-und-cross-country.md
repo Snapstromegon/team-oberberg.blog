@@ -4,7 +4,7 @@ abstract: Am Vormittag standen die Speed Trials Qualifikationen auf dem
   Programm, bevor es anschließend beim Beginner Cross-Country auf eine
   anspruchsvolle Strecke ging. Am Nachmittag folgten die Siegerehrungen der
   Altersklassen in den Disziplinen Hoch- und Weitsprung sowie Trial.
-cover: /assets/img/uploads/2026-07-29_speedtrial_thomashoeser_032.jpg
+cover: /assets/img/uploads/2026-07-29_speedtrial_thomashoeser_006.jpg
 ---
 Am Vormittag gingen Kim, Jonas und Lalenia bei den Speed Trials Qualifikationen an den Start. In dieser Disziplin gilt es – ähnlich wie bei einem Ninja-Parkour – eine Reihe unterschiedlicher Hindernisse auf dem Einrad so schnell wie möglich zu überwinden. Dabei machten sich die Anstrengungen der letzten Tage deutlich bemerkbar. Alle drei konnten jedoch am Ende mit ihren erbrachten Leistungen zufrieden sein. 
 
