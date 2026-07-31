@@ -14,6 +14,8 @@ Danach ging es für Kim, Thomas, Lalenia und Marit zum Palettenhoch und -weitspr
 
 Nach dem Mittagessen startete Sira beim X-Style. In dieser Disziplin werden so viele schwierige Tricks wie möglich in einer gewissen Zeit gezeigt. Abstieg werden hierbei jedoch nicht bewertet. Sira hat es bis in‘s Semi-Finale geschafft. 
 
+{% image "/assets/img/uploads/1000046074.jpg", "" %}
+
 Vor dem Abendessen wurden Sira und Jonas jeweils in ihren Altersklasse für Cross Country geehrt. 
 
 Am Abend durfte Lalenia noch im spannenden Speed Trial Finale starten. Im Anschluss fand noch das für die Unicon typische Cup-Pong Finale statt.
