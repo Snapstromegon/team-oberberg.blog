@@ -9,8 +9,6 @@ Am Nachmittag fanden die Vorrunden im Flatland statt. In 45 Sekunden zeigen hier
 
 Während Flatland fanden zudem die Siegerehrungen der Altersklassenwertungen im Downhill und Uphill Beginner statt, bei denen Sira und Theresa geehrt wurden.
 
-Den Abend ließen die meisten von uns bei der Videonacht ausklingen, die zugleich die Halbzeit der Unicon markierte. Für Lalenia und Marit geht es morgen leider bereits zurück nach Hause, während für die übrigen Fahrerinnen und Fahrer die Wettkämpfe auf der Tartanbahn wie auf dem Programm stehen.
-
-
+Den Abend ließen die meisten von uns bei der Videonacht ausklingen, die zugleich die Halbzeit der Unicon markierte. Für Lalenia und Marit geht es morgen leider bereits zurück nach Hause, während für die übrigen Fahrerinnen und Fahrer die Wettkämpfe auf der Tartanbahn auf dem Programm stehen.
 
 {% image "/assets/img/uploads/2026-08-01_basketball-3x3_thomashoeser_005.jpg", "" %}
