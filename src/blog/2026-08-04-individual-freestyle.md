@@ -3,7 +3,7 @@ title: Individual Freestyle
 abstract: Heute war der zweite Wettkampftag im Freestyle, an dem die ersten
   Kürprogramme von Team Oberberg präsentiert wurden. Es starteten alle
   Einzelküren über 15. Für unser Team gingen Sira, Lasse und Jonas an den Start.
-cover: /assets/img/uploads/1000046555.jpg
+cover: /assets/img/uploads/1000046579.jpg
 ---
 Heute war der zweite Wettkampftag im Freestyle, an dem die ersten Kürprogramme von Team Oberberg präsentiert wurden. Es starteten alle Einzelküren über 15. Für unser Team gingen Sira, Lasse und Jonas an den Start.
 
